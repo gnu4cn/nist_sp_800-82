@@ -1,0 +1,28 @@
+[book]
+authors = ["Lenny Peng"]
+language = "zh"
+src = "src"
+title = "Yet another Chinese NIST SP 800-82r3 book."
+description = "NIST SP 800-82r3 中文翻译，Yet another Chinese NIST SP 800-82r3 book。"
+mdbook_version = "0.4.29"
+
+[preprocessor.last-changed]
+command = "mdbook-last-changed"
+renderer = ["html"]
+
+
+[preprocessor.pagetoc]
+[output.html]
+additional-css = ["theme/pagetoc.css"]
+additional-js  = ["theme/pagetoc.js"]
+git-repository-url = "https://github.com/gnu4cn/nist_sp_800-82"
+git-repository-icon = "fa-github"
+
+[output.html.print]
+enable = false
+
+[output.html.search]
+enable = false
+
+[output.html.favicon]
+png = true
