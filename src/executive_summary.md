@@ -8,9 +8,7 @@
 
 尽管存在一些共同点，但运营技术（OT）也具有与传统信息处理系统不同的特点。这些差异中的许多源于这样一个事实：即在运营技术中执行的逻辑，会直接影响物理世界。这些特征包括对人类生命健康与安全的重大风险、对环境的严重破坏，以及严重的财务问题，例如生产损失、对国家经济的负面影响以及专有信息的泄露。OT 具有独特的性能与可靠性要求，且常使用在典型 IT 人员看来，可能较为非传统的操作系统和应用程序。此外，在 OT 系统的设计和运行中，安全与效率的目标有时会与安全性产生冲突。
 
-> **参考**：
->
-> <sup>1</sup>：[csrc.nist.gov: Operational Technology Security](https://csrc.nist.gov/Projects/operational-technology-security)
+> **参考**： <sup>1</sup>：[csrc.nist.gov: Operational Technology Security](https://csrc.nist.gov/Projects/operational-technology-security)
 
 
 运营技术（OT）网络安全项目，应始终作为更广泛的 OT 安全与可靠性计划的一部分，既要纳入工业现场的计划，也要纳入企业的网络安全计划，因为网络安全对于现代工业流程的安全可靠运行至关重要。针对 OT 系统的威胁可能来自多种来源，包括
