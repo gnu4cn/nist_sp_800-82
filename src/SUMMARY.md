@@ -9,3 +9,4 @@
 - [概述](./overview.md)
 - [OT 网络安全计划的制订](./program_dev.md)
 - [参考文献](./refs.md)
+- [附录 D，运营技术安全组织、研究与活动](./appendix-d.md)
