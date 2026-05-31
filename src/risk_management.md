@@ -222,9 +222,9 @@
 >
 > 风险评估通常属于一些时间点报告。因此，组织应确保对其进行更新以保持最新状态，并且安全级别保持足够。组织可能希望查看
 >
-> - CISA 的警报和建议、
-> - NIST 的 NVD、
-> - 和 MITRE ATT&CK for ICS 提供的信息
+> - [CISA 的警报和建议](https://www.cisa.gov/news-events/ics-advisories)、
+> - [NIST 的 NVD](https://nvd.nist.gov/)、
+> - 和 MITRE [ATT&CK for ICS](https://attack.mitre.org/techniques/ics/) 提供的信息
 >
 > 以识别 OT 环境的常见漏洞区域，例如：
 >
