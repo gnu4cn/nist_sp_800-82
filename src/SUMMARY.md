@@ -14,3 +14,4 @@
 - [参考文献](./refs.md)
 - [附录 C, 威胁来源、漏洞与安全事件](./appdendix-c.md)
 - [附录 D，运营技术安全组织、研究与活动](./appendix-d.md)
+- [附录 F，OT 叠加](./appendix-f.md)
