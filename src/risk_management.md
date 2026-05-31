@@ -159,54 +159,54 @@
 >
 > <table>
 >   <tr>
->     <th style="Background-color: black" rowspan="2">威胁事件发起或发生的可能性</th>
->     <td style="Background-color: black" colspan="5">威胁事件导致不利影响的可能性</td>
+>     <th style="background-color: black" rowspan="2">威胁事件发起或发生的可能性</th>
+>     <td style="background-color: black" colspan="5">威胁事件导致不利影响的可能性</td>
 >   </tr>
 >   <tr>
->     <td style="Background-color: #f2f2f2">极低</td>
->     <td style="Background-color: #f2f2f2">低</td>
->     <td style="Background-color: #f2f2f2">中</td>
->     <td style="Background-color: #f2f2f2">高</td>
->     <td style="Background-color: #f2f2f2">极高</td>
+>     <td style="color: black; background-color: #f2f2f2">极低</td>
+>     <td style="color: black; background-color: #f2f2f2">低</td>
+>     <td style="color: black; background-color: #f2f2f2">中</td>
+>     <td style="color: black; background-color: #f2f2f2">高</td>
+>     <td style="color: black; background-color: #f2f2f2">极高</td>
 >   </tr>
 >   <tr>
->     <th style="Background-color: black">极高</th>
->     <td style="Background-color: #92d050">低</td>
->     <td style="Background-color: #ffff00">中</td>
->     <td style="Background-color: #ffc000">高</td>
->     <td style="Background-color: #ff0000">极高</td>
->     <td style="Background-color: #ff0000">极高</td>
+>     <th style="background-color: black">极高</th>
+>     <td style="color: black; background-color: #92d050">低</td>
+>     <td style="color: black; background-color: #ffff00">中</td>
+>     <td style="color: black; background-color: #ffc000">高</td>
+>     <td style="color: black; background-color: #ff0000">极高</td>
+>     <td style="color: black; background-color: #ff0000">极高</td>
 >   </tr>
 >   <tr>
->     <th style="Background-color: black">高</th>
->     <td style="Background-color: #92d050">低</td>
->     <td style="Background-color: #ffff00">中</td>
->     <td style="Background-color: #ffff00">中</td>
->     <td style="Background-color: #ffc000">高</td>
->     <td style="Background-color: #ff0000">极高</td>
+>     <th style="background-color: black">高</th>
+>     <td style="color: black; background-color: #92d050">低</td>
+>     <td style="color: black; background-color: #ffff00">中</td>
+>     <td style="color: black; background-color: #ffff00">中</td>
+>     <td style="color: black; background-color: #ffc000">高</td>
+>     <td style="color: black; background-color: #ff0000">极高</td>
 >   </tr>
 >   <tr>
->     <th style="Background-color: black">中</th>
->     <td style="Background-color: #92d050">低</td>
->     <td style="Background-color: #92d050">低</td>
->     <td style="Background-color: #ffff00">中</td>
->     <td style="Background-color: #ffff00">中</td>
->     <td style="Background-color: #ffc000">高</td>
+>     <th style="background-color: black">中</th>
+>     <td style="color: black; background-color: #92d050">低</td>
+>     <td style="color: black; background-color: #92d050">低</td>
+>     <td style="color: black; background-color: #ffff00">中</td>
+>     <td style="color: black; background-color: #ffff00">中</td>
+>     <td style="color: black; background-color: #ffc000">高</td>
 >   </tr>
 >   <tr>
->     <th style="Background-color: black">低</th>
->     <td style="Background-color: #00b050">极低</td>
->     <td style="Background-color: #92d050">低</td>
->     <td style="Background-color: #92d050">低</td>
->     <td style="Background-color: #ffff00">中</td>
->     <td style="Background-color: #ffff00">中</td>
+>     <th style="background-color: black">低</th>
+>     <td style="color: black; background-color: #00b050">极低</td>
+>     <td style="color: black; background-color: #92d050">低</td>
+>     <td style="color: black; background-color: #92d050">低</td>
+>     <td style="color: black; background-color: #ffff00">中</td>
+>     <td style="color: black; background-color: #ffff00">中</td>
 >   </tr>
 >   <tr>
->     <th style="Background-color: black">极低</th>
->     <td style="Background-color: #00b050">极低</td>
->     <td style="Background-color: #00b050">极低</td>
->     <td style="Background-color: #92d050">低</td>
->     <td style="Background-color: #92d050">低</td>
->     <td style="Background-color: #92d050">低</td>
+>     <th style="background-color: black">极低</th>
+>     <td style="color: black; background-color: #00b050">极低</td>
+>     <td style="color: black; background-color: #00b050">极低</td>
+>     <td style="color: black; background-color: #92d050">低</td>
+>     <td style="color: black; background-color: #92d050">低</td>
+>     <td style="color: black; background-color: #92d050">低</td>
 >   </tr>
 > </table>
