@@ -149,64 +149,64 @@
 威胁发生的可能性还可以基于组织状态（例如其核心任务和业务流程、企业架构、信息安全架构、信息系统及其运行环境），并考虑诱因条件以及部署的安全控制措施的存在和有效性，以防止未经授权或不良行为。检测和限制伤害，以及/或其他 OT 能力的韧性因素。
 
 
-**特定于 OT 的建议和指导**
-
-建立事件可能性定义的组织，可能需要查看 NIST SP 800-30 第 1 版 [SP800-30r1](./refs.md#sp800-30r1) 的附录 G，以获取更详细的指导和建议。根据本指南，组织应考虑根据对抗性（即故意威胁行为者）和非对抗性（例如错误、事故、自然灾害等）事件，定义从极低到极高的五个可能性级别。此外，组织可能希望为事件可能导致不利影响的可能性建立定义。利用这两个因素，组织可以建立如下 [表 4](#t-4) 所示的热图，以确定支持风险分析的可能性因素。
-
-<a name="t-4"></a>
-**表 4**: 事件可能性评估
-
-
-<table>
-  <tr>
-    <th style="Background-color: black" rowspan="2">威胁事件发起或发生的可能性</th>
-    <td style="Background-color: black" colspan="5">威胁事件导致不利影响的可能性</td>
-  </tr>
-  <tr>
-    <td style="Background-color: #f2f2f2">极低</td>
-    <td style="Background-color: #f2f2f2">低</td>
-    <td style="Background-color: #f2f2f2">中</td>
-    <td style="Background-color: #f2f2f2">高</td>
-    <td style="Background-color: #f2f2f2">极高</td>
-  </tr>
-  <tr>
-    <th style="Background-color: black">极高</th>
-    <td style="Background-color: #92d050">低</td>
-    <td style="Background-color: #ffff00">中</td>
-    <td style="Background-color: #ffc000">高</td>
-    <td style="Background-color: #ff0000">极高</td>
-    <td style="Background-color: #ff0000">极高</td>
-  </tr>
-  <tr>
-    <th style="Background-color: black">高</th>
-    <td style="Background-color: #92d050">低</td>
-    <td style="Background-color: #ffff00">中</td>
-    <td style="Background-color: #ffff00">中</td>
-    <td style="Background-color: #ffc000">高</td>
-    <td style="Background-color: #ff0000">极高</td>
-  </tr>
-  <tr>
-    <th style="Background-color: black">中</th>
-    <td style="Background-color: #92d050">低</td>
-    <td style="Background-color: #92d050">低</td>
-    <td style="Background-color: #ffff00">中</td>
-    <td style="Background-color: #ffff00">中</td>
-    <td style="Background-color: #ffc000">高</td>
-  </tr>
-  <tr>
-    <th style="Background-color: black">低</th>
-    <td style="Background-color: #00b050">极低</td>
-    <td style="Background-color: #92d050">低</td>
-    <td style="Background-color: #92d050">低</td>
-    <td style="Background-color: #ffff00">中</td>
-    <td style="Background-color: #ffff00">中</td>
-  </tr>
-  <tr>
-    <th style="Background-color: black">极低</th>
-    <td style="Background-color: #00b050">极低</td>
-    <td style="Background-color: #00b050">极低</td>
-    <td style="Background-color: #92d050">低</td>
-    <td style="Background-color: #92d050">低</td>
-    <td style="Background-color: #92d050">低</td>
-  </tr>
-</table>
+> **特定于 OT 的建议和指导**
+>
+> 建立事件可能性定义的组织，可能需要查看 NIST SP 800-30 第 1 版 [SP800-30r1](./refs.md#sp800-30r1) 的附录 G，以获取更详细的指导和建议。根据本指南，组织应考虑根据对抗性（即故意威胁行为者）和非对抗性（例如错误、事故、自然灾害等）事件，定义从极低到极高的五个可能性级别。此外，组织可能希望为事件可能导致不利影响的可能性建立定义。利用这两个因素，组织可以建立如下 [表 4](#t-4) 所示的热图，以确定支持风险分析的可能性因素。
+>
+> <a name="t-4"></a>
+> **表 4**: 事件可能性评估
+>
+>
+> <table>
+>   <tr>
+>     <th style="Background-color: black" rowspan="2">威胁事件发起或发生的可能性</th>
+>     <td style="Background-color: black" colspan="5">威胁事件导致不利影响的可能性</td>
+>   </tr>
+>   <tr>
+>     <td style="Background-color: #f2f2f2">极低</td>
+>     <td style="Background-color: #f2f2f2">低</td>
+>     <td style="Background-color: #f2f2f2">中</td>
+>     <td style="Background-color: #f2f2f2">高</td>
+>     <td style="Background-color: #f2f2f2">极高</td>
+>   </tr>
+>   <tr>
+>     <th style="Background-color: black">极高</th>
+>     <td style="Background-color: #92d050">低</td>
+>     <td style="Background-color: #ffff00">中</td>
+>     <td style="Background-color: #ffc000">高</td>
+>     <td style="Background-color: #ff0000">极高</td>
+>     <td style="Background-color: #ff0000">极高</td>
+>   </tr>
+>   <tr>
+>     <th style="Background-color: black">高</th>
+>     <td style="Background-color: #92d050">低</td>
+>     <td style="Background-color: #ffff00">中</td>
+>     <td style="Background-color: #ffff00">中</td>
+>     <td style="Background-color: #ffc000">高</td>
+>     <td style="Background-color: #ff0000">极高</td>
+>   </tr>
+>   <tr>
+>     <th style="Background-color: black">中</th>
+>     <td style="Background-color: #92d050">低</td>
+>     <td style="Background-color: #92d050">低</td>
+>     <td style="Background-color: #ffff00">中</td>
+>     <td style="Background-color: #ffff00">中</td>
+>     <td style="Background-color: #ffc000">高</td>
+>   </tr>
+>   <tr>
+>     <th style="Background-color: black">低</th>
+>     <td style="Background-color: #00b050">极低</td>
+>     <td style="Background-color: #92d050">低</td>
+>     <td style="Background-color: #92d050">低</td>
+>     <td style="Background-color: #ffff00">中</td>
+>     <td style="Background-color: #ffff00">中</td>
+>   </tr>
+>   <tr>
+>     <th style="Background-color: black">极低</th>
+>     <td style="Background-color: #00b050">极低</td>
+>     <td style="Background-color: #00b050">极低</td>
+>     <td style="Background-color: #92d050">低</td>
+>     <td style="Background-color: #92d050">低</td>
+>     <td style="Background-color: #92d050">低</td>
+>   </tr>
+> </table>
