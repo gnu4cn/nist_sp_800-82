@@ -79,8 +79,134 @@
 >
 > 对于 OT 系统操作员来说，安全直接影响如何决策系统的设计和运行。安全可以定义为 “免受可能导致死亡、受伤、职业病、设备或财产损坏或损失或环境破坏的情况的影响。freedom from conditions that can cause death, injury, occupational illness, damage to or loss of equipment or property, or damage to the environment.” <sup>7</sup> 基于此，人类安全影响通常是根据因网络事件后 OT 系统发生故障可能造成的伤害、疾病或死亡的程度进行评估，采取考虑之前进行的任何关于员工和公众的安全影响评估。安全和发展安全文化的重要性，在确定风险承受方面发挥着关键作用。
 >
+> **注**：<sup>7</sup> 请参阅 https://csrc.nist.gov/glossary/term/safety
+>
 > 组织应考虑纳入对 OT 系统的网络安全影响的分析，即影响人员安全和环境，以及缓解控制措施。更具体地说，组织可能希望考虑采用全面的流程，来系统地预测或识别每个安全关键故障的操作行为，可能导致危险或危险的情况、故障情况或人为错误潜在的人类危害。
 >
 > 组织可能还会考虑遗留系统的影响及其环境中的组件。具体来说，遗留系统可能无法充分支持网络安全，以防范风险超过组织的容忍水平。
 >
-> **注**：<sup>7</sup> 请参阅 https://csrc.nist.gov/glossary/term/safety
+> OT 系统运营者的另一个主要关注点是，OT 系统提供的服务的可用性。OT 系统可能是关键基础设施（例如供水或电力系统）的一部分，其中非常需要连续可靠的运营。因此，OT 系统可能对可用性或恢复有严格的要求。组织应了解并规划实现其操作环境所需的弹性所需的冗余级别，并将这些要求纳入其风险框架中。这将帮助组织做出风险决策，避免对依赖所提供服务的人，造成意想不到的后果。更具体地说，组织应考虑识别相互依赖的 OT 系统，这些系统会带来威胁系统可用性的网络安全风险。
+>
+> 此外，组织应考虑事件如何传播到连接的系统和系统组件。OT 可以与其他系统互连，这样一个系统或流程中的故障，就很容易级联到组织内部或外部的其他系统。由于物理和逻辑的依赖性，可能会发生影响传播。将风险评估结果正确传达给互联或相互依赖的系统和流程的运营者，是管理此类影响的一种方法。
+>
+> 当网络事件传播到互联的 OT 系统时，则可能会对互联的 OT 造成逻辑损坏。例如，病毒或蠕虫可能会传播到连接的 OT 并影响该系统。物理损坏还可能传播到其他互连的 OT 或相关物理域。例如，影响可能会导致物理危害，从而降低附近物理环境或共同共享依赖性（例如电源）的质量，或者导致工业过程后期所需的材料短缺。
+
+网络安全与基础设施安全局，cybersecurity and infrastructure security agency, CISA 促进政府和行业之间的共同努力，以提高他们预测、确定优先级，和管理国家级 OT 风险的能力。 CISA 协助所有关键基础设施领域的 OT 系统供应商和资产所有者、运营者和其他供应商识别安全漏洞，并制定合理、主动的缓解策略，以加强其 OT 系统的网络安全态势。
+
+> **特定于 OT 的建议和指导**
+>
+> 组织可能需要考虑将 NIST 的 [国家漏洞数据库，National Vulnerability Database, NVD](https://nvd.nist.gov/) 和 MITRE 的 [工业控制系统，Industrial Control Systems，ICS 框架 ATT&CK](https://attack.mitre.org/techniques/ics/) [ [ATTACK-ICS] ](./refs.md#attack-ics) 等资源，纳入其评估任务和 OT 系统风险流程中。此外，OT 系统的性质要求组织考虑在对传统 IT 系统进行风险评估时，可能不存在的其他因素。例如，OT 将具有与 IT 不同的威胁源、漏洞和补偿控制。 OT 环境中网络事件的影响，可能包括风险评估需要纳入的物理和数字影响，包括：
+>
+> - 对安全和安全评估使用的影响；
+> - 网络事件对 OT 的物理影响，包括更大的物理环境，以及对受控过程的影响；
+> - OT 内非数字控制组件风险评估的后果。
+
+在搭建风险框架期间，组织应选择适当的风险评估方法，其中包括 OT。在评估网络事件造成的潜在物理损害时，拥有 OT 系统的组织可以考虑
+
+- i) 网络事件如何操纵操作来影响物理环境；
+- ii) OT 系统中存在哪些设计功能来防止或减轻影响；
+- 以及 iii) 根据这些条件如何可能出现物理事件。
+
+
+> **特定于 OT 的建议和指南**
+>
+> 在 OT 环境中搭建风险框架时，组织可能会发现网络安全威胁并不总是像 OT 危害那样易于理解或预测。组织可以考虑将网络攻击和 IT 故障场景，纳入其流程危害分析，process hazard analysis, PHA 或故障模式和影响分析，failure mode and effects analysis, FMEA 流程中。通过将网络攻击带来的风险，和网络风险管理措施纳入这些流程，组织可以更好地了解 OT 运营环境的网络风险。作为风险框架的一部分，组织可能还需要考虑：
+>
+> - 关于如何在整个组织内评估、响应和监控风险的假设；
+> - 组织的风险承受能力，即可以承受的风险水平被接受为实现战略目标的一部分，以及作为管理一部分考虑的优先事项和权衡风险。
+>
+> 在 OT 背景下，对设备、人员安全、自然环境和其他关键基础设施造成损害的可能性，是这些考虑因素的一部分。组织可能需要考虑评估 OT 系统所有部分的潜在物理影响。组织可能还需要确定 OT 系统如何交互，或依赖 IT 来支持风险框架。这些流程可能要求组织确定一个通用框架，来评估包含 OT 考虑因素的影响。一种方法基于 NIST FIPS 199 [ [FIPS199] ](./refs.md#fips199)，该标准规定根据机密性、完整性和可用性的安全目标，将系统分为低影响、中度影响或高影响。另一种基于 ISA 62443-3-2 [ [ISA62443] ](./refs.md#isa62443) 的方法，提供了利用 OT 影响确定系统分类的示例定义。
+
+
+下 [表 3](#t-3) 提供了组织可以自定义以满足其特定行业，或业务要求的可能示例类别和影响级别。例如，某些组织可能会将持续一天的中断，视为具有较高影响而不是中等影响，如表中所示。
+
+<a name="t-3"></a>
+**表 3**：根据生产的产品、行业和安全问题，对 OT 影响级别的可能定义
+
+
+| 类别 | 高影响 | 中影响 | 低影响 |
+| :- | :- | :- | :- |
+| 多个站点停电 | 多个站点的运营受到严重干扰，预计需要 1 天或多天的时间恢复 | 多个站点的运营受到部分干扰，预计需要 1 小时以上的时间才能恢复  | 多个站点的运营部分中断，但需要不到 1 小时的时间才能恢复到全部功能 |
+| 国家基础设施和服务 | 影响多个部门或严重扰乱社区服务 | 有可能对公司以外的部门产生影响 | 对单个公司以外的部门几乎没有影响，对社区几乎没有影响 |
+| 代价（占收入的百分比） | <code>> 25%</code>  | <code>> 5%</code>  | <code>< 5%</code> |
+| 法律问题 | 重罪或影响经营许可证的合规违规行为 | 轻罪刑事犯罪或导致罚款的合规违规行为 | 无 |
+| 公众信心 | 品牌形象损失 | 客户信心丧失 | 无 |
+| 现场人员 | 死亡 | 工作日损失或重大伤害 | 急救或可记录伤害 |
+| 不在现场人员 | 死亡或重大社区事件 | 投诉或当地社区影响 | 无投诉 |
+| 环境 | 受到地区机构的处罚或大面积长期重大损害 | 受到当地机构的处罚 | 小规模、封闭性排放低于可报告限度 |
+
+
+为了支持风险评估流程，组织还应定义如何确定网络安全事件发生的可能性，以在评估风险时保持一致性。NIST SP 800-30，修订 1 [ [SP800-30r1] ](./refs.md#sp800-30r1) 为组织制定可能性加权风险因素提供指导。组织应根据对
+
+- 给定威胁能够利用给定漏洞（或一组漏洞）、
+- 威胁事件将启动、
+- 以及威胁事件将导致不利影响的概率的分析，
+
+考虑对风险因素进行加权。
+
+对于对抗性威胁，发生可能性的评估通常基于对手的意图、能力和目标。对于非对抗性威胁事件，发生的可能性是使用历史证据、经验数据和其他因素来估计的。如果组织发现组织历史数据很少，他们可能需要考虑扩展分析范围，以考虑描述类似组织报告的网络安全事件的行业特定数据。
+
+威胁发生的可能性还可以基于组织状态（例如其核心任务和业务流程、企业架构、信息安全架构、信息系统及其运行环境），并考虑诱因条件以及部署的安全控制措施的存在和有效性，以防止未经授权或不良行为。检测和限制伤害，以及/或其他 OT 能力的韧性因素。
+
+
+**特定于 OT 的建议和指导**
+
+建立事件可能性定义的组织，可能需要查看 NIST SP 800-30 第 1 版 [SP800-30r1](./refs.md#sp800-30r1) 的附录 G，以获取更详细的指导和建议。根据本指南，组织应考虑根据对抗性（即故意威胁行为者）和非对抗性（例如错误、事故、自然灾害等）事件，定义从极低到极高的五个可能性级别。此外，组织可能希望为事件可能导致不利影响的可能性建立定义。利用这两个因素，组织可以建立如下 [表 4](#t-4) 所示的热图，以确定支持风险分析的可能性因素。
+
+<a name="t-4"></a>
+**表 4**: 事件可能性评估
+
+
+<table>
+  <tr>
+    <th style="Background-color: black" rowspan="2">威胁事件发起或发生的可能性</th>
+    <td style="Background-color: black" colspan="5">威胁事件导致不利影响的可能性</td>
+  </tr>
+  <tr>
+    <td style="Background-color: #f2f2f2">极低</td>
+    <td style="Background-color: #f2f2f2">低</td>
+    <td style="Background-color: #f2f2f2">中</td>
+    <td style="Background-color: #f2f2f2">高</td>
+    <td style="Background-color: #f2f2f2">极高</td>
+  </tr>
+  <tr>
+    <th style="Background-color: black">极高</th>
+    <td style="Background-color: #92d050">低</td>
+    <td style="Background-color: #ffff00">中</td>
+    <td style="Background-color: #ffc000">高</td>
+    <td style="Background-color: #ff0000">极高</td>
+    <td style="Background-color: #ff0000">极高</td>
+  </tr>
+  <tr>
+    <th style="Background-color: black">高</th>
+    <td style="Background-color: #92d050">低</td>
+    <td style="Background-color: #ffff00">中</td>
+    <td style="Background-color: #ffff00">中</td>
+    <td style="Background-color: #ffc000">高</td>
+    <td style="Background-color: #ff0000">极高</td>
+  </tr>
+  <tr>
+    <th style="Background-color: black">中</th>
+    <td style="Background-color: #92d050">低</td>
+    <td style="Background-color: #92d050">低</td>
+    <td style="Background-color: #ffff00">中</td>
+    <td style="Background-color: #ffff00">中</td>
+    <td style="Background-color: #ffc000">高</td>
+  </tr>
+  <tr>
+    <th style="Background-color: black">低</th>
+    <td style="Background-color: #00b050">极低</td>
+    <td style="Background-color: #92d050">低</td>
+    <td style="Background-color: #92d050">低</td>
+    <td style="Background-color: #ffff00">中</td>
+    <td style="Background-color: #ffff00">中</td>
+  </tr>
+  <tr>
+    <th style="Background-color: black">极低</th>
+    <td style="Background-color: #00b050">极低</td>
+    <td style="Background-color: #00b050">极低</td>
+    <td style="Background-color: #92d050">低</td>
+    <td style="Background-color: #92d050">低</td>
+    <td style="Background-color: #92d050">低</td>
+  </tr>
+</table>
