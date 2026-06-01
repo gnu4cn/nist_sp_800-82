@@ -359,7 +359,7 @@
     <th>特定于 OT 的指导</th>
  </tr>
  <tr>
-    <td colspan="3">组织和使命以及业务流程级别</td>
+    <td colspan="3" style="align: center; font-size: bold">组织和使命以及业务流程级别</td>
  </tr>
  <tr>
     <td>TASK P-1 风险管理角色</td>
