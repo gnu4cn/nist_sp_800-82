@@ -1,6 +1,6 @@
 # 网络安全架构模型
 
-基于第 [5.1](./strategy.md)、[5.2](./arch_capacities.md) 和 [5.3](./other_arch_considerations.md) 小节中的概念和指导原则，以下各小节将对 [第 2 部分](../program_dev.md) 中描述的一般 OT 和 IIoT 环境进行扩展，并提供示例说明如何调整这些环境，以支持深度防御安全架构。
+基于第 [5.1](./strategy.md)、[5.2](./capacities.md) 和 [5.3](./other_considerations.md) 小节中的概念和指导原则，以下各小节将对 [第 2 部分](../program_dev.md) 中描述的一般 OT 和 IIoT 环境进行扩展，并提供示例说明如何调整这些环境，以支持深度防御安全架构。
 
 ## 基于分布式控制系统（DCS）的 OT 系统
 
