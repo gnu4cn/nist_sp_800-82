@@ -12,6 +12,7 @@
 - [第 5 部分，OT 网络安全架构](./arch.md)
     - [网络安全战略](./arch/strategy.md)
     - [纵深防御架构能力](./arch/arch_capacities.md)
+    - [网络安全架构的其他考量](./arch/other_arch_considerations.md)
 - [第 6 部分，应用网络安全框架于 OT](./cybersecurity_framework.md)
 - [参考文献](./refs.md)
 - [附录 C, 威胁来源、漏洞与安全事件](./appdendix-c.md)
