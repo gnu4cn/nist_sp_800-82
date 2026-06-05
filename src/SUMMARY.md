@@ -15,6 +15,7 @@
     - [网络安全架构的其他考量](./arch/other_considerations.md)
     - [网络安全架构模型](./arch/models.md)
 - [第 6 部分，应用网络安全框架于 OT](./cybersecurity_framework.md)
+    - [识别（ID）](./framework/identify.md)
 - [参考文献](./refs.md)
 - [附录 C, 威胁来源、漏洞与安全事件](./appdendix-c.md)
 - [附录 D，运营技术安全组织、研究与活动](./appendix-d.md)
