@@ -124,7 +124,7 @@
 
 - CEDS
 
-	Cybersecurity for Energe Delivery Systems, 能源传输系统网络安全
+	Cybersecurity for Energy Delivery Systems, 能源传输系统网络安全
 
 - CEO
 
@@ -136,7 +136,7 @@
 
 - CESER
 
-	Cybersecurity, Energe Security, and Emergency Response, 网络安全、能源安全与应急响应
+	Cybersecurity, Energy Security, and Emergency Response, 网络安全、能源安全与应急响应
 
 - CFATS
 
@@ -677,6 +677,471 @@ United States Food and Drug Administration, 美国食品药品监督管理局
 
 	Nuclear Energy Agency, 核能局
 
+- NEI
+
+    Nuclear Energy Institute, 核能研究所
+
+- NERC
+
+    North American Electric Reliability Corporation, 北美电力可靠性公司
+
+- NESCOR
+
+    National Electric Sector Cybersecurity Resource, 国家电力行业网络安全资源中心
+
+- NFS
+
+    Network File System, 网络文件系统
+
+- NFU
+
+    National Farmers Union, 全国农民联盟
+
+- NGFW
+
+    Next Generation Firewall, 下一代防火墙
+
+- NHTSA
+
+    National Highway Traffic Safety Administration, 美国国家公路交通安全管理局
+
+- NICE
+
+    National Initiative for Cybersecurity Education, 国家网络安全教育计划
+
+- NIH
+
+    National Institute of Health, 美国国立卫生研究院
+
+- NIMS
+
+    National Incident Management System, 国家事件管理系统
+
+- NIST
+
+    National Institute of Standards and Technology, 美国国家标准与技术研究院
+
+- NIST IR
+
+    NIST Internal or Interagency Report, 美国国家标准与技术研究院内部或跨机构报告
+
+- NITAAC
+
+    National Institutes of Health Information Technology Acquisition and Assesment Center, 美国国立卫生研究院信息技术采购与评估中心
+
+- NRC
+
+    United States Nuclear Regulatory Commission, 美国核管理委员会
+
+- NREL
+
+    National Renewable Energy Laboratory, 国家可再生能源实验室
+
+- NTP
+
+    Network Time Protocol, 网络时间协议
+
+- NTSB
+
+    National Transportation Safety Board, 美国国家运输安全委员会
+
+- NVD
+
+    National Vulnerability Database, 国家漏洞数据库
+
+
+## O
+
+- OEM
+
+    Original Equipment Manufacturer, 原始设备制造商
+
+- OMB
+
+    Office of Management and Budget, 美国管理和预算办公室
+
+- OPC
+
+    Open Platform Communications, 开放平台通信
+
+- OS
+
+    Operating System, 操作系统
+
+- OSI
+
+    Open Systems Interconnection, 开放系统互连
+
+- OT
+
+    Operational Technology, 运营技术
+
+
+## P
+
+- PACS
+
+    Physical Access Control Systems, 物理访问控制系统；Picture Archiving and Communications Systems, 医学影像存档与通信系统
+
+- PC
+
+    Personal Computer, 个人计算机
+
+- PERA
+
+    Purdue Enterprise Reference Architecture, 普渡大学企业参考架构
+
+- PES
+
+    IEEE Power & Energy Society, 电力与能源学会
+
+- PHA
+
+    Process Hazard Analysis, 工艺危害分析
+
+- PHM4SM
+
+    Prognostics and Health Management for Reliable Operations in Smart Manufactoring, 智能制造中可靠运行的预测性维护与健康管理
+
+- PHMSA
+
+    Pipeline and Hazardous Materials Safety Administration, 管道与危险材料安全管理局
+
+- PID
+
+    Proportional-Integral-Derivative, 比例-积分-微分
+
+- PIN
+
+    Personal Identification Number, 个人识别码
+
+- PIV
+
+    Personal Identity Verification, 个人身份验证
+
+- PLC
+
+    Programmable Logic Controller, 可编程逻辑控制器
+
+- PNNL
+
+    Pacific Northwest National Laboratory, 太平洋西北国家实验室
+
+- PNT
+
+    Positioning, Navigation, and Timing, 定位、导航与授时
+
+- PPD
+
+    Presidential Policy Directive, 总统政策指令
+
+- PRAM
+
+    Privacy Risk Assesment Methodology, 隐私风险评估方法
+
+- PSCCC
+
+    IEEE Power System Communications and Cybersecurity, IEE 电力系统通信与网络安全
+
+- PSS
+
+    Process Safety Shutdown, 工艺安全停机
+
+- PT
+
+    Pressure Transmitter, 压力变送器
+
+- PTP
+
+    Precision Time Protocol, 精密时间协议
+
+
+## R
+
+- R&D
+
+    Research and Development, 研究与开发
+
+- RAS
+
+    IEEE Robotics and Automation Society, IEEE 机器人与自动化学会
+
+- RBAC
+
+    Role-Based Access Control, 基于角色的访问控制
+
+- RDP
+
+    Remote Desktop Protocol, 远程桌面协议
+
+- RF
+
+    Radio Frequence, 射频
+
+- RFC
+
+    Request for Comments, 意见征询书
+
+- RFID
+
+    Radio Frequence Identification, 射频识别
+
+- RMF
+
+    Risk Management Framework, 风险管理框架
+
+- RPC
+
+    Remote Procedure Call, 远程过程调用
+
+- RPO
+
+    Recovery Point Objective, 恢复点目标
+
+- RTO
+
+    Recovery Time Objective, 恢复时间目标
+
+- RTOS
+
+    Real-Time Operating System, 实时操作系统
+
+- RTU
+
+    Remote Terminal Unit, 远程终端单元
+
+
+## S
+
+- S4
+
+    SCADA Security Scientific Symposium, SCADA 安全科学研讨会
+
+- SBOM
+
+    Software Bill of Materials, 软件物料清单
+
+- SBU
+
+    Sensitive But Unclassified, 敏感但未分类
+
+- SC
+
+    Security Category, 安全类别
+
+- SCADA
+
+    Supervisory Control and Data Acquisition, 监督控制与数据采集
+
+- SCAI
+
+    Safety, Controls, Alarms, and Interlocks, 安全、控制、报警与联锁
+
+- SCC
+
+    Sector Coordinating Council, 行业协调委员会
+
+- SD
+
+    Secure Digital, 安全数字
+
+- SDLC
+
+    Software Development Life Cycle, 软件开发生命周期；System Development Life Cycle, 系统开发生命周期
+
+- SDN
+
+    Software-Defined Network, 软件定义网络
+
+- SEPA
+
+    Smart Electric Power Alliance, 智能电力联盟
+
+- SGCC
+
+    Smart Grid Cybersecurity Committee, 智能电网网络安全委员会
+
+- SHA
+
+    Secure Hash Algorithm, 安全哈希算法
+
+- SIEM
+
+    Security Information and Event Management, 安全信息和事件管理
+
+- SIF
+
+    Safety Instrumented Function, 安全仪表功能
+
+- SIS
+
+    Safety Instrumented System, 安全仪表系统
+
+- SOC
+
+    Security Operations Center, 安全运营中心
+
+- SOCMA
+
+    Society of Chemical Manufacturers and Affiliates, 化学制造商及附属机构协会
+
+- SP
+
+    Special Pulication, 特别出版物
+
+- SPAN
+
+    Switched Port Analyzer, 交换端口分析仪
+
+- SQL
+
+    Structured Query Language, 结构化查询语言
+
+- SSA
+
+    Sector-Specific Agency, 行业特定机构
+
+- SSCP
+
+    Secure SCADA Communications Protocol, 安全 SCADA 通信协议
+
+- SSH
+
+    Secure Shell, 安全外壳协议
+
+- SSID
+
+    Service Set Identifier, 服务集标识符
+
+- SSL
+
+    Secure Sockets Layer, 安全套接层
+
+- SSPP
+
+    Substation Serial Protection Protocol, 变电站串行保护协议
+
+
+## T
+
+- TC
+
+    Technical Committee, 技术委员会
+
+- TCP
+
+    Transmission Control Protocol, 传输控制协议
+
+- TCP/IP
+
+    Transmission Control Protocol/Internet Protocol, 传输控制协议/互联网协议
+
+- TFTP
+
+    Trivial File Transfer Protocol, 简单文件传输协议
+
+- TIP
+
+    Technical Information Paper, 技术信息文件
+
+- TLS
+
+    Tranport Layer Security, 传输层安全
+
+- TLV
+
+    Type, Length, Value, 类型、长度、值
+
+- TPM
+
+    Trusted Platform Module, 可信平台模组
+
+- TSA
+
+    Transportation Security Administration, 运输安全管理局
+
+- TT
+
+    Temperature Transmitter, 温度变送器
+
+
+## U
+
+- UDP
+
+    User Datagram Protocol, 用户数据报协议
+
+- UPS
+
+    Uninterruptible Power Supply, 不间断电源
+
+- U.S.
+
+    United States, 美国
+
+- USB
+
+    Universal Serial Bus, 通用串行总线
+
+- USDA
+
+    United States Department of Agriculture, 美国农业部
 
 
 
+## V
+
+
+- VAV
+
+    Variable Air Volume, 变风量
+
+- VDP
+
+    Vulnerability Disclosure Policy, 漏洞披露政策
+
+- VLAN
+
+    Virtual Local Area Network, 虚拟局域网
+
+- VoIP
+
+    Voice over Internet Protocol, 互联网协议语音
+
+- VPN
+
+    Virtual Private Network, 虚拟专用网络
+
+- VTS
+
+    IEEE Vehicular Technology Society, IEEE 车载技术学会
+
+
+## W
+
+- WAF
+
+    Web Application Firewall, 网络应用防火墙
+
+- WAN
+
+    Wide Area Network, 广域网
+
+- WG
+
+    Working Group, 工作组
+
+- Wi-Fi
+
+    Wireless Fidelity, 无线保真
+
+- WINS
+
+    World Institute of Nuclear Security, 世界核安全研究所
+
+
+## Z
+
+- ZTA
+
+    Zero Trust Architecture, 零信任架构
