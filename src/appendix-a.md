@@ -5,77 +5,85 @@
 ## A
 
 - A3
+
     Association for Advancing Automation, 自动化促进协会
 
 - ABAC
+
     Attribution-Based Access Control, 基于属性的访问控制
 
 - ACC
+
     American Chemistry Council, 美国化学理事会
 
 - ACI
+
     Aviation Cyber Initiative, 航空网络安全倡议
 
 - ACL
+
     Access Control List, 访问控制列表
 
 - AES
+
     Advanced Encryption Standard, 高级加密标准
 
 - AFPM
+
     American Fuel and Petrochemical Manufactors, 美国燃料与石化制造商协会
 
 - AGA
 
-American Gas Association, 美国天然气协会
+	American Gas Association, 美国天然气协会
 
 - AHA
 
-American Hospital Association, 美国医院协会
+	American Hospital Association, 美国医院协会
 
 - AI
 
-Artificial Intellegence, 人工智能
+	Artificial Intellegence, 人工智能
 
 - AMA
 
-American Medical Association, 美国医学会
+	American Medical Association, 美国医学会
 
 - AMWA
 
-Association of Metropolitan Water Agencies, 大都市水务机构协会
+	Association of Metropolitan Water Agencies, 大都市水务机构协会
 
 - AO
 
-Authorizing Official, 授权官员
+	Authorizing Official, 授权官员
 
 - APCP
 
-American Hospital Association Preferred Cybersecurity Provider, 美国医院协会首选网络安全服务提供商
+	American Hospital Association Preferred Cybersecurity Provider, 美国医院协会首选网络安全服务提供商
 
 - API
 
-American Petroleum Institute, 美国石油学会；Application Programming Interface, 应用程序接口
+	American Petroleum Institute, 美国石油学会；Application Programming Interface, 应用程序接口
 
 - APPA
 
-American Public Power Association, 美国公共电力协会
+	American Public Power Association, 美国公共电力协会
 
 - ASDSO
 
-Association of State Dam Safety Officials, 州水坝安全官员协会
+	Association of State Dam Safety Officials, 州水坝安全官员协会
 
 
 - ATO
 
-Air Traffic Organization, 空中交通组织
+	Air Traffic Organization, 空中交通组织
 
 - AWWA
 
-American Water Works Association, 美国水务协会
+	American Water Works Association, 美国水务协会
 
 
 ## B
+
 - BAD
 
 Behavioral Anomaly Detection, 行为异常检测
