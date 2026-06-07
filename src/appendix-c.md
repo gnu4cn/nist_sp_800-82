@@ -14,9 +14,9 @@ OT 的威胁可能来自多种来源，可分为对抗性、意外性、结构�
 | 威胁来源类型 | 描述 | 特征|
 | :- | :- | :- |
 | 对抗性, ADVERSARIAL<br /> <ul><li>僵尸网络运营者</li><li>犯罪集团</li><li>黑客/黑客活动分子</li><li>内部人士</li><li>国家</li><li>恐怖分子</li></ul> | 寻求利用组织对网络资源（例如电子形式的信息、信息和通信技术以及这些技术提供的通信和信息处理能力）依赖的个人、团体、组织或民族国家 | 能力、意图、目标 |
-| 意外，ACCIDENTAL<br /><ul><li>用户</li><li>特权用户或管理员</li></ul> | 个人在执行日常职责的过程中，采取的错误行为（例如，操作员意外地输入 100 而不是 10 作为设定值；工程师在认为自己处于开发环境中的情况下，在生产环境中进行了更改） | 影响范围 |
-| 结构，STRUCTURAL <br /><ul><li>硬件故障<ul><li>处理器、输入/输出卡、通信卡</li><li>网络设备</li><li>电源</li><li>传感器、最终元件</li><li>HMI、显示器</li></ul></li><li>软件故障</li><ul><li>操作系统</li><li>通用应用程序</li><li>特定任务应用程序</li></ul></li><li>环境控制故障</li><ul><li>温度控制</li><li>湿度控制</li></ul></li><li>通信性能下降</li><ul><li>无线</li><li>有线</li></ul></li></ul>  | 由于老化、资源耗尽或其他超出预期操作参数的情况而导致设备、环境控制或软件故障，包括组织控制范围内的关键基础设施故障 | 影响范围 |
-| 环境，ENVIRONMENTAL<br /><ul><li>自然或人为灾害</li><ul><li>火灾</li><li>洪水/海啸</li><li>风暴/龙卷风</li><li>飓风</li><li>地震</li><li>轰炸</li><li>动物干扰</li><li>太阳耀斑、陨石</li></ul></li><li>关键基础设施故障<ul><li>电信</li><li>电力</li><li>交通</li><li>水/废水</li></ul></li></ul>  | 组织所依赖但超出组织控制范围的自然灾害和关键基础设施故障。<br />注意：自然和人为灾害也可以根据其严重程度和/或持续时间来表征。然而，由于威胁源和威胁事件已被明确识别，因此可以在威胁事件的描述中，包含严重性和持续时间（例如，5 级飓风对关键任务系统所在的设施造成广泛损坏，使这些系统在三周内不可用）。 | 效果范围 |
+| 意外性，ACCIDENTAL<br /><ul><li>用户</li><li>特权用户或管理员</li></ul> | 个人在执行日常职责的过程中，采取的错误行为（例如，操作员意外地输入 100 而不是 10 作为设定值；工程师在认为自己处于开发环境中的情况下，在生产环境中进行了更改） | 影响范围 |
+| 结构性，STRUCTURAL <br /><ul><li>硬件故障<ul><li>处理器、输入/输出卡、通信卡</li><li>网络设备</li><li>电源</li><li>传感器、最终元件</li><li>HMI、显示器</li></ul></li><li>软件故障</li><ul><li>操作系统</li><li>通用应用程序</li><li>特定任务应用程序</li></ul></li><li>环境控制故障</li><ul><li>温度控制</li><li>湿度控制</li></ul></li><li>通信性能下降</li><ul><li>无线</li><li>有线</li></ul></li></ul>  | 由于老化、资源耗尽或其他超出预期操作参数的情况而导致设备、环境控制或软件故障，包括组织控制范围内的关键基础设施故障 | 影响范围 |
+| 环境性，ENVIRONMENTAL<br /><ul><li>自然或人为灾害</li><ul><li>火灾</li><li>洪水/海啸</li><li>风暴/龙卷风</li><li>飓风</li><li>地震</li><li>轰炸</li><li>动物干扰</li><li>太阳耀斑、陨石</li></ul></li><li>关键基础设施故障<ul><li>电信</li><li>电力</li><li>交通</li><li>水/废水</li></ul></li></ul>  | 组织所依赖但超出组织控制范围的自然灾害和关键基础设施故障。<br />注意：自然和人为灾害也可以根据其严重程度和/或持续时间来表征。然而，由于威胁源和威胁事件已被明确识别，因此可以在威胁事件的描述中，包含严重性和持续时间（例如，5 级飓风对关键任务系统所在的设施造成广泛损坏，使这些系统在三周内不可用）。 | 效果范围 |
 
 ## 漏洞和诱发条件
 
@@ -160,3 +160,111 @@ OT 系统中常见的潜在漏洞和诱发条件分类如以下表格所示：
 | 对传感器或最终元件的未经授权的物理访问 | 对传感器和最终元件的物理访问，允许直接操纵物理过程。许多设备都配置在现场总线上，以便对传感器网络进行物理访问，从而可以操纵控制参数。应管理对整个环路的物理访问，以防止发生事故。 |
 | 对传感器或最终元件的未经授权的无线访问 | 对传感器和最终元件的无线访问，允许直接操纵物理过程。许多智能设备允许无线配置（例如蓝牙、Wi-Fi、WirelessHART）。应尽可能使用硬件写保护，来安全配置或禁用无线访问，以防止对连接到物理过程和 OT 环境的传感器和最终元件进行未经授权的修改。|
 | 资产管理系统的不适当分割 | 大多数架构都是为 PLC、RTU、DCS 和 SCADA 控制器设计的，用于操纵过程，并为资产管理系统设计，用于监控连接到控制器的资产。许多资产管理系统还具有修改传感器和最终元件配置的技术能力，尽管修改可能不是其主要功能。应根据资产管理系统操纵流程的能力（或缺乏能力）对其进行适当的控制。 |
+
+## 威胁事件和事件
+
+所谓威胁事件，是指可能因某些威胁源而对运营造成不良后果或影响的事件或情况。 NIST SP 800-30，修订版 1 【[SP800-30r1](./refs.md#sp800-30r1)】, [附录 E](./appendix-e.md)  确定了一组可能潜在影响信息系统的威胁事件。 OT 的属性还可能呈现独特的威胁事件，例如威胁事件如何操纵 OT 流程造成物理损坏。下 [表 21](#t-21) 概述了潜在 OT 威胁事件，并利用针对工业控制系统的 MITRE ATT&CK 模型 【[ATTACK-ICS](./refs.md#attack-ics)】。
+
+<a name="t-21"></a>
+**表 21**，潜在威胁事件示例
+
+| 威胁事件 | 描述 |
+| :- | :- |
+| 控制权被剥夺 | 暂时阻止操作员和工程师与过程控制系统进行交互。受影响的过程在控制权丧失期间，可能仍在运行，但不一定处于预期状态。|
+| 控制篡改 | 对 PLC、RTU、DCS 或 SCADA 控制器中的编程指令进行未经授权的修改、更改报警阈值，或向控制设备发出未经授权的命令。这些变更可能导致设备损坏（若超出容差范围）、工艺过早停机（例如输电线路过早停运）、环境事故，甚至控制设备失效。 |
+| 伪造报告消息 | 向 OT 系统操作员发送虚假信息，目的是规避检测或破坏过程控制。攻击者可能诱使防御人员和操作员，误以为发生了其他错误，从而转移其对实际问题根源的注意力（即警报泛滥）。 |
+| 窃取运行信息 | 攻击者可能为谋取私利，或为未来行动提供情报而窃取运行信息。 |
+| 安全性丧失 | 攻击者可能会针对安全系统功能发起攻击并使其失效，以此作为后续攻击的先决条件，或为日后出现的不安全条件创造不受检查的条件。 |
+| 可用性丧失 | 攻击者可能会利用恶意软件，删除或加密人机界面（HMI）、工作站或数据库上的关键数据。 |
+
+已有大量运营技术（OT）事件被报告并记录在案。对这些事件的描述有助于说明运营技术领域内威胁源、漏洞及影响的严重性。如 [附录 C.2](#漏洞和诱发条件) 所述，威胁源主要分为四大类：敌对性、意外性、结构性和环境性。通常，事件可能是多种威胁源共同作用的结果（例如，环境事件导致系统故障，操作员对此作出错误响应，进而引发意外事件）。
+
+以下是归入这四类中的部分已报告事件。这些事件还被进一步分为恶意或非恶意、直接或间接两类，以进一步区分 OT 事件的可能原因。
+
+- **M = 恶意，Malicious**。该事件是由某人出于有害目的发起的。发起者可能针对 OT 系统，也可能不针对；可能知晓潜在后果，也可能不知晓；
+- **N = 非恶意，Non-malicious**。没有证据表明引发该事件的行为意图造成事故；
+- **D = 直接，Direct**。该事件旨在发现、抑制、破坏，或以其他方式影响 OT 系统；
+- **I = 间接，Indirect**。该事件被认为并非旨在发现、抑制、破坏，或以其他方式影响 OT 系统。OT 系统因支撑基础设施受到影响而关闭或导致中断。
+
+
+### 对抗性事件
+
+- **[M][D] 马可尼无线电黑客事件** <sup>9</sup>。1903 年，意大利无线电先驱古列尔莫·马可尼，正准备进行首次公开演示，试图实现从康沃尔到伦敦皇家学会弗莱明教授之间的远程安全无线通信。发明家兼魔术师内维尔·马斯克林破解了该系统，并用摩尔斯电码发送了一条提及 “老鼠” 的滑稽信息。随后，马斯克林在行业期刊 *《电工，The Electrician》* 上发表了关于此次破解的说明；
+
+    > **注**：<sup>9</sup>** 有关马可尼无线电黑客事件的更多信息，请访问 [osti.gov: History of Industrial Control System Cyber Incidents](https://www.osti.gov/biblio/1505628)。
+
+- **[M][I] 伍斯特空中交通通信** <sup>10</sup>。1997 年 3 月，马萨诸塞州伍斯特市的一名青少年，利用连接到该系统的拨号调制解调器，瘫痪了公共交换电话网 PSTN 的部分网络。此次攻击导致控制塔、机场安保、机场消防部门、气象服务以及使用该机场的各航空公司的电话服务中断。塔台的主无线电发射机、控制跑道灯光的另一台发射机，以及管制员用于监控航班进展的打印机均被关闭。此次攻击还导致附近拉特兰镇 600 户家庭和企业的电话服务中断；
+
+    > **注**：<sup>10</sup>** 有关伍斯特空中交通通信事件的更多信息，请访问 [archive.org: Teen hacker faces federal charges](https://web.archive.org/web/20220303041809/http://edition.cnn.com/TECH/computing/9803/18/juvenile.hacker/index.html)
+
+- **[M][D] 马鲁奇郡污水泄漏事件** <sup>11</sup>。2000 年春季，某家开发制造软件的澳大利亚机构的一名前雇员向当地政府申请工作，但遭到了拒绝。据报道，在随后的两个月里，这名心怀不满的员工利用无线电发射器多达 46 次，远程入侵了污水处理系统的控制系统。他篡改了特定污水泵站的电子数据，导致其运行故障，最终造成约 26.4 万加仑的未处理污水排入附近的河流和公园；
+
+    > **注**：<sup>11</sup> 有关马鲁奇郡污水泄漏事件的更多信息，请访问 [theregister.com: Hacker jailed for revenge sewage attacks](http://www.theregister.co.uk/2001/10/31/hacker_jailed_for_revenge_sewage/)
+
+- **[M][I] Night Dragon** <sup>12</sup>。McAfee 报告称，发生了一系列旨在窃取全球石油、能源和石化行业敏感数据的攻击。攻击者窃取了与油气田投标和运营相关的专有运营数据及项目融资信息；
+
+    > **注**：<sup>12</sup> 关于 Night Dragon 的更多信息，已作为 McAfee 白皮书发布，网址为 https://www.heartland.org/_template-assets/documents/publications/29423.pdf
+
+- **[M][D] 伊朗离心机，Stuxnet** <sup>13</sup>。Stuxnet 是一种于 2010 年 7 月发现的 Microsoft Windows 计算机蠕虫，专门针对工业软件和设备。该蠕虫最初无差别传播，但包含一个高度专业化的恶意软件有效载荷，该载荷仅针对配置为控制和监控特定工业流程的特定 SCADA 系统；
+
+    > **注**：<sup>13</sup> 有关 Stuxnet 蠕虫病毒的更多信息，请访问 [wired.com: An Unprecedented Look at Stuxnet, the World's First Digital Weapon](https://www.wired.com/2014/11/countdown-to-zero-day-stuxnet/)
+
+- **[M][D] 德国钢厂袭击** <sup>14</sup>。 2014 年，黑客操纵并破坏了控制系统，导致一座高炉无法正常关闭，造成了不明的 “大规模” 损害；
+
+    > **注**：<sup>14</sup> 有关德国钢厂事件的更多信息，请访问 [wired.com: A Cyberattack Has Caused Confirmed Physical Damage for the Second Time Ever](http://www.wired.com/2015/01/german-steel-mill-hack-destruction/)
+
+- **[M][I] Shamoon** <sup>15</sup>。 2012 年，沙特阿美公司经历了一次针对其炼油厂的恶意软件攻击，并覆盖了受攻击系统的主引导记录 (MBR)、分区表和其他数据文件。这导致系统无法使用；
+
+    > **注**：<sup>15</sup> 有关 Shamoon 的更多信息，请访问 [archive.org：Monitor(ICS-MM201209)](https://web.archive.org/web/20221017185304/https://www.cisa.gov/uscert/ics/monitors/ICS-MM201209)
+
+- **[M][D] 纽约大坝** <sup>16</sup>。 2013 年，一家伊朗计算机安全公司获得了对位于纽约拉伊的鲍曼大坝 SCADA 系统控制计算机的远程访问权限。对手能够查看水位、温度和水闸的状态。对抗性远程访问时，闸门控制已断开进行维护，因此无法对大坝进行远程控制；
+
+    > **注**：<sup>16</sup> 美国司法部对纽约大坝袭击事件的起诉书可在 [](https://www.justice.gov/opa/file/834996/download) 找到
+
+- **[M][D] Dragonfly campaign, Havex** <sup>17</sup>。 能源部门成为主要使用 Havex 恶意软件的多年网络间谍活动的目标。 Havex 是一种远程访问特洛伊木马，他使用开放平台通信，Open Platform Communications, OPC 标准，来收集有关网络上已连接 ICS 设备的信息。这些活动是探索性的。
+
+    > **注**：<sup>17</sup> 有关 Dragonfly/Energetic Bear 活动的更多信息，请访问 [https://www.osti.gov/servlets/purl/1505628](https://www.osti.gov/servlets/purl/1505628)
+
+- **[M][D] 乌克兰电网，BlackEnergy3** <sup>18</sup>。2015 年 12 月 23 日，乌克兰电力公司遭遇网络攻击，导致停电，影响超过 225,000 名乌克兰客户。超过 50 个地区变电站的断路器遭到恶意远程操作。 KillDisk 恶意软件被用来擦除目标系统上的文件，包括至少一个基于 Windows 的 HMI。攻击者还破坏了变电站串口转以太网设备的固件。这是已知的首次针对电网的网络攻击；
+
+    > **注**：<sup>18</sup> 有关第一次乌克兰电网攻击的更多信息，请访问 [https://info.publicintelligence.net/NCCIC-UkrainianPowerAttack.pdf](https://info.publicintelligence.net/NCCIC-UkrainianPowerAttack.pdf)
+
+- **[M][D]乌克兰电网，Industroyer** <sup>19</sup>。 2016 年 12 月 17 日，乌克兰基辅郊外一座变电站发生网络攻击，导致其中一座变电站客户停电约一小时。这次攻击是第一个已知的专门用于攻击电网的恶意软件；
+
+    > **注**：<sup>19</sup> 有关 Industroyer 恶意软件的更多信息，请访问 [cisa.gov: CrashOverride Malware](https://us-cert.cisa.gov/ncas/alerts/TA17-163A)
+
+- **[M][I]马士基，NotPetya**。 2017 年，NotPetya 恶意软件对全球计算机进行了加密，且无法解密。尽管该恶意软件最初针对的是乌克兰公司，但他已传播到世界各地，对马士基、联邦快递、默克和圣戈班产生了重大影响。该恶意软件破坏了马士基的数据并扰乱了运输业务，导致该公司的维修和恢复工作损失超过 3 亿美元；
+
+- **[M][D] 沙特石化，TRITON** <sup>20</sup>。沙特阿拉伯的一家石化设施遭到针对工业 SIS 的恶意软件的攻击。2017 年，当三重冗余处理器发现处理器之间的代码不匹配时，SIS 启动了石化流程的安全关闭；
+
+    > **注**：<sup>20</sup> 有关 TRITON 攻击的更多信息，请访问 [https://www.mandiant.com/resources/triton-actor-ttp-profile-custom-attack-tools-detections](https://www.mandiant.com/resources/triton-actor-ttp-profile-custom-attack-tools-detections)
+
+- **[M][I] 挪威海德鲁公司，LockerGoga** <sup>21</sup>。2019 年 3 月，Norsk Hydro 遭遇网络攻击，利用 LockerGoga 勒索软件加密其计算机文件。这家铝和可再生能源公司转向手动操作，并向公众公开其恢复进度。Norsk Hydro 在整个发现和恢复过程中的透明度，受到安全行业的好评；
+
+    > **注**：<sup>21</sup> 有关 Norsk Hydro 攻击的更多信息，请访问 [https://news.microsoft.com/transform/hackers-hit-norsk-Hydro-ransomware-company-responded-transparency/](https://news.microsoft.com/transform/hackers-hit-norsk-Hydro-ransomware-company-responded-transparency/)、[https://doublepulsar.com/how-lockergoga-took-down-Hydro-ransomware-used-in-targeted-attacks-aimed-at-big-business-c666551f5880](https://doublepulsar.com/how-lockergoga-took-down-Hydro-ransomware-used-in-targeted-attacks-aimed-at-big-business-c666551f5880) 和 [https://www.darkreading.com/application-security/ransomware/norsk-Hydro-this-is-how-you-react-to-a-ransomware-breach/a/d-id/750396](https://www.darkreading.com/application-security/ransomware/norsk-Hydro-this-is-how-you-react-to-a-ransomware-breach/a/d-id/750396)
+
+- **[M][I] Colonial 管道** <sup>22</sup>。 2021 年 5 月，超过 5,500 英里、每天向美国东海岸输送超过 1 亿加仑成品油的管道，因勒索软件攻击而关闭。 Colonial Pipeline 是勒索软件网络攻击的受害者，该攻击利用旧版 VPN 配置文件，对其 IT 系统进行了加密。调查仍在进行中，但截至撰写本文时，没有证据表明勒索软件对 OT 环境有任何直接影响。Colonial 决定关闭管道的物理操作，以遏制任何潜在的损害。Colonial Pipeline 还决定向网络犯罪组织 Darkside 支付赎金，以便获得所有可能的工具（包括解密工具），使管道系统重新上线。美国政府收回了部分赎金。<sup>23</sup>
+
+    > **注**：
+    >
+    > - <sup>22</sup> 有关 Colonial Pipeline 事件的更多信息，请访问 [https://www.c-span.org/video/?512247-1/senate-homeland-security-hearing-colonial-pipeline-cyber-attack 和 https://www.hsgac.senate.gov/imo/media/doc/Testimony-Blount-2021-06-08.pdf](https://www.c-span.org/video/?512247-1/senate-homeland-security-hearing-colonial-pipeline-cyber-attack 和 https://www.hsgac.senate.gov/imo/media/doc/Testimony-Blount-2021-06-08.pdf)
+    >
+    > - <sup>23</sup> 更多信息请访问 [https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware- extortionists-darkside](https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware- extortionists-darkside)
+
+- **[M][I] 针对医疗保健的勒索软件** <sup>24</sup>。通过网络钓鱼攻击传播的一系列恶意软件，针对医疗保健和公共卫生部门，以破坏服务并窃取数据。 2020 年秋季，发布了 CISA 警报 (AA20-302A)，警告医疗保健和公共卫生部门公司此类攻击的普遍存在。
+
+    > **注**：<sup>24</sup> 有关针对医疗保健的一系列恶意软件的更多信息，请参阅 [Ransomware Activity Targeting the Healthcare and Public Health Sector | CISA](https://us-cert.cisa.gov/ncas/alerts/aa20-302a)
+
+### 结构性事件
+
+- **[N][D] 华盛顿州贝灵厄姆，汽油管道故障** <sup>25</sup>。1999 年 6 月， 237，000 加仑汽油从 16 英寸管道泄漏，1.5 小时后起火，造成 3 人死亡、8 人受伤，并造成大面积财产损失。控制系统无法执行控制和监测功能，加剧了管道故障。就在事件发生之前和事件期间，SCADA 系统表现出较差的性能，导致管道控制器无法发现管道运行异常情况并做出反应。 2002 年 10 月发布的 NTSB 报告中的一项重要建议是，利用离线开发和测试系统来实施和测试 SCADA 数据库的更改；
+
+    > **注**：<sup>25</sup> 有关华盛顿州贝灵厄姆汽油管道故障事件的更多信息，请访问 [http://www.ntsb.gov/investigations/AccidentReports/Reports/PAR0202.pdf](http://www.ntsb.gov/investigations/AccidentReports/Reports/PAR0202.pdf)
+
+- **[M][I] CSX 列车信号系统** <sup>26</sup>。2003 年 8 月，Sobig 计算机病毒被指导致美国东海岸的火车信号系统关闭。该病毒感染了 CSX Corp. 佛罗里达州杰克逊维尔总部的计算机系统，导致信号、调度和其他系统关闭。据 Amtrak 发言人 Dan Stessel 称，上午有 10 趟 Amtrak 列车受到影响。由于信号不明，宾夕法尼亚州匹兹堡和南卡罗来纳州佛罗伦萨之间的火车停运，从弗吉尼亚州里士满开往华盛顿和纽约的一趟 Amtrak 地区列车延误了两个多小时。长途火车也延误了四到六个小时；
+
+    > **注**：<sup>26</sup> 有关 CSX 列车信号系统事件的更多信息，请访问 [http://www.informationweek.com/story/showArticle.jhtml?articleID=13100807](http://www.informationweek.com/story/showArticle.jhtml?articleID=13100807)
+
+- **[N][D] Browns Ferry-3 PLC 故障** <sup>27</sup>。2006 年 8 月，由于 PLC 问题无响应，导致两台水泵发生故障并威胁到工厂本身的稳定性，TVA 被迫手动关闭工厂的两个反应堆之一。虽然有双冗余 PLC，但他们连接到同一以太网。后来对故障设备进行测试发现，当遇到网络流量过多时，他们会崩溃；
+
+    > **注**：<sup>27</sup> 有关 Browns Ferry-3 PLC 故障事件的更多信息，请访问 [http://www.nrc.gov/reading-rm/doc-collections/gen-comm/info-notices/2007/in200715.pdf](http://www.nrc.gov/reading-rm/doc-collections/gen-comm/info-notices/2007/in200715.pdf)
