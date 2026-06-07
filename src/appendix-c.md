@@ -191,11 +191,11 @@ OT 系统中常见的潜在漏洞和诱发条件分类如以下表格所示：
 
 - **[M][D] 马可尼无线电黑客事件** <sup>9</sup>。1903 年，意大利无线电先驱古列尔莫·马可尼，正准备进行首次公开演示，试图实现从康沃尔到伦敦皇家学会弗莱明教授之间的远程安全无线通信。发明家兼魔术师内维尔·马斯克林破解了该系统，并用摩尔斯电码发送了一条提及 “老鼠” 的滑稽信息。随后，马斯克林在行业期刊 *《电工，The Electrician》* 上发表了关于此次破解的说明；
 
-    > **注**：<sup>9</sup>** 有关马可尼无线电黑客事件的更多信息，请访问 [osti.gov: History of Industrial Control System Cyber Incidents](https://www.osti.gov/biblio/1505628)。
+    > **注**：<sup>9</sup> 有关马可尼无线电黑客事件的更多信息，请访问 [osti.gov: History of Industrial Control System Cyber Incidents](https://www.osti.gov/biblio/1505628)。
 
 - **[M][I] 伍斯特空中交通通信** <sup>10</sup>。1997 年 3 月，马萨诸塞州伍斯特市的一名青少年，利用连接到该系统的拨号调制解调器，瘫痪了公共交换电话网 PSTN 的部分网络。此次攻击导致控制塔、机场安保、机场消防部门、气象服务以及使用该机场的各航空公司的电话服务中断。塔台的主无线电发射机、控制跑道灯光的另一台发射机，以及管制员用于监控航班进展的打印机均被关闭。此次攻击还导致附近拉特兰镇 600 户家庭和企业的电话服务中断；
 
-    > **注**：<sup>10</sup>** 有关伍斯特空中交通通信事件的更多信息，请访问 [archive.org: Teen hacker faces federal charges](https://web.archive.org/web/20220303041809/http://edition.cnn.com/TECH/computing/9803/18/juvenile.hacker/index.html)
+    > **注**：<sup>10</sup> 有关伍斯特空中交通通信事件的更多信息，请访问 [archive.org: Teen hacker faces federal charges](https://web.archive.org/web/20220303041809/http://edition.cnn.com/TECH/computing/9803/18/juvenile.hacker/index.html)
 
 - **[M][D] 马鲁奇郡污水泄漏事件** <sup>11</sup>。2000 年春季，某家开发制造软件的澳大利亚机构的一名前雇员向当地政府申请工作，但遭到了拒绝。据报道，在随后的两个月里，这名心怀不满的员工利用无线电发射器多达 46 次，远程入侵了污水处理系统的控制系统。他篡改了特定污水泵站的电子数据，导致其运行故障，最终造成约 26.4 万加仑的未处理污水排入附近的河流和公园；
 
@@ -203,7 +203,7 @@ OT 系统中常见的潜在漏洞和诱发条件分类如以下表格所示：
 
 - **[M][I] Night Dragon** <sup>12</sup>。McAfee 报告称，发生了一系列旨在窃取全球石油、能源和石化行业敏感数据的攻击。攻击者窃取了与油气田投标和运营相关的专有运营数据及项目融资信息；
 
-    > **注**：<sup>12</sup> 关于 Night Dragon 的更多信息，已作为 McAfee 白皮书发布，网址为 https://www.heartland.org/_template-assets/documents/publications/29423.pdf
+    > **注**：<sup>12</sup> 关于 Night Dragon 的更多信息，已作为 McAfee 白皮书发布，网址为 [https://www.heartland.org/_template-assets/documents/publications/29423.pdf](https://www.heartland.org/_template-assets/documents/publications/29423.pdf)
 
 - **[M][D] 伊朗离心机，Stuxnet** <sup>13</sup>。Stuxnet 是一种于 2010 年 7 月发现的 Microsoft Windows 计算机蠕虫，专门针对工业软件和设备。该蠕虫最初无差别传播，但包含一个高度专业化的恶意软件有效载荷，该载荷仅针对配置为控制和监控特定工业流程的特定 SCADA 系统；
 
