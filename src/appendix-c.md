@@ -268,3 +268,33 @@ OT 系统中常见的潜在漏洞和诱发条件分类如以下表格所示：
 - **[N][D] Browns Ferry-3 PLC 故障** <sup>27</sup>。2006 年 8 月，由于 PLC 问题无响应，导致两台水泵发生故障并威胁到工厂本身的稳定性，TVA 被迫手动关闭工厂的两个反应堆之一。虽然有双冗余 PLC，但他们连接到同一以太网。后来对故障设备进行测试发现，当遇到网络流量过多时，他们会崩溃；
 
     > **注**：<sup>27</sup> 有关 Browns Ferry-3 PLC 故障事件的更多信息，请访问 [http://www.nrc.gov/reading-rm/doc-collections/gen-comm/info-notices/2007/in200715.pdf](http://www.nrc.gov/reading-rm/doc-collections/gen-comm/info-notices/2007/in200715.pdf)
+
+
+### 环境事件
+
+- **[N][I] 福岛第一核电站灾难** <sup>28</sup>。 2011 年 3 月 11 日发生的东日本大地震袭击了日本海岸，并向内陆引发了一场巨大的海啸，袭击了核电站。海啸破坏了工厂的海堤，淹没了工厂的大部分地区，包括应急发电机所在的位置。这种应急电源对于操作控制室和为反应堆提供冷却水至关重要。冷却剂的损失，导致反应堆堆芯过热，导致燃料的锆包壳与水发生反应，释放出氢气，并在四个反应堆建筑中的三个中引发大规模爆炸。这导致了大规模的辐射泄漏，影响了工厂员工、附近居民和当地环境。事后分析发现，该工厂的应急响应中心没有足够的安全通信线路，无法向工厂的其他区域提供关键安全相关仪表的信息。
+
+    > **注**：<sup>28</sup> 更多信息请参见 [http://www-pub.iaea.org/MTCD/meetings/PDFplus/2011/cn200/documentation/cn200_Final-Fukushima-Mission_Report.pdf](http://www-pub.iaea.org/MTCD/meetings/PDFplus/2011/cn200/documentation/cn200_Final-Fukushima-Mission_Report.pdf) 以及 [http://pbadupws.nrc.gov/docs/ML1414/ML14140A185.pdf](http://pbadupws.nrc.gov/docs/ML1414/ML14140A185.pdf)
+
+### 意外事件
+
+- **[N][D] 漏洞扫描器事件** <sup>29</sup>。在对一个控制 9 英尺长机械臂的运行中的 SCADA 网络进行 ping 扫描时，其中一个机械臂突然启动并旋转了约 180 度。在开始 ping 扫描前，该机械臂的控制器处于待机模式。在另一起事件中，为进行网络清点而对一个工业控制系统 ICS 网络执行 ping 扫描，以识别连接到该网络的主机时，导致制造工厂中控制集成电路生产的系统死机。此次测试导致价值 5 万美元的晶圆损毁；
+
+    > **注**：<sup>29</sup> 有关漏洞扫描器事件的更多信息，请参见 [https://energy.sandia.gov/wp-content/gallery/uploads/sand_2005_2846p.pdf](https://energy.sandia.gov/wp-content/gallery/uploads/sand_2005_2846p.pdf)
+
+- **[N][D] 渗透测试事件** <sup>30</sup>。某天然气公用事业公司聘请了一家 IT 安全咨询机构，对其企业 IT 网络进行渗透测试。该咨询机构因疏忽大意，误入了一个直接连接到 SCADA 系统的网络区域。此次渗透测试导致 SCADA 系统瘫痪，该公用事业公司因此无法通过管道输送天然气长达四个小时；
+
+    > **注**：<sup>30</sup> 有关渗透测试事件的更多信息，请参阅 [https://energy.sandia.gov/wp-content/gallery/uploads/sand_2005_2846p.pdf](https://energy.sandia.gov/wp-content/gallery/uploads/sand_2005_2846p.pdf)
+
+- **[N][I] NERC 执法行动** <sup>31</sup>。2019 年，一家美国能源公司因 2015 至 2018 年间发生的网络安全违规行为，被 NERC 处以 1,000 万美元罚款。未能遵守美国的网络安全标准，被视为对整个电力系统安全与可靠性的威胁；
+
+    > **注**：<sup>31</sup> 如需了解有关对能源公司处以罚款的更多信息，请参阅 [Enforcement Actions 2019(nerc.com)](https://www.nerc.com/pa/comp/CE/Pages/Actions_2019/Enforcement-Actions-2019.aspx)
+
+
+- **[N][D] NASA 火灾** <sup>32</sup>。一个用于控制大型工程烤箱的 OT 组件安装了安全补丁。该补丁及相关重启操作导致烤箱停止运行，进而引发火灾，烧毁了航天器硬件。重启操作还阻碍了警报系统的启动，致使火灾在被发现前持续了 3.5 小时而未被察觉；
+
+    > **注**：<sup>32</sup> 有关美国国家航空航天局（NASA）在实施 IT 安全控制措施时，因意外导致运营时间损失的更多信息，请参阅 [Final Report — IG-17-011 (nasa.gov)](https://oig.nasa.gov/docs/IG-17-011.pdf)。
+
+- **[N][D] 哈奇核电站** <sup>33</sup>。2008 年，佐治亚州的哈奇核电站因一台 Windows 电脑安装了软件更新，被迫紧急停机 48 小时。当这台更新后的电脑重启时，他重置了控制系统中的数据，导致安全系统错误地将数据缺失，解读为冷却核电站放射性核燃料棒的水池水位下降。结果，该电站的自动安全系统触发了停机程序。
+
+    > **注**：<sup>33</sup> 更多信息请访问 [https://www.homelandsecuritynewswire.com/cyber-mishap-causes-nuclear-power-plant-shutdown](https://www.homelandsecuritynewswire.com/cyber-mishap-causes-nuclear-power-plant-shutdown)
