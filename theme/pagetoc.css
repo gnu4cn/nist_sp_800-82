@@ -62,7 +62,6 @@
 }
 
 /* Top align content in all markdown tables */
-.content table td,
-.content table th {
+.content table td {
     vertical-align: top;
 }
