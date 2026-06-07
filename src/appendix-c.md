@@ -247,7 +247,7 @@ OT 系统中常见的潜在漏洞和诱发条件分类如以下表格所示：
 
     > **注**：
     >
-    > - <sup>22</sup> 有关 Colonial Pipeline 事件的更多信息，请访问 [https://www.c-span.org/video/?512247-1/senate-homeland-security-hearing-colonial-pipeline-cyber-attack 和 https://www.hsgac.senate.gov/imo/media/doc/Testimony-Blount-2021-06-08.pdf](https://www.c-span.org/video/?512247-1/senate-homeland-security-hearing-colonial-pipeline-cyber-attack 和 https://www.hsgac.senate.gov/imo/media/doc/Testimony-Blount-2021-06-08.pdf)
+    > - <sup>22</sup> 有关 Colonial Pipeline 事件的更多信息，请访问 [https://www.c-span.org/video/?512247-1/senate-homeland-security-hearing-colonial-pipeline-cyber-attack](https://www.c-span.org/video/?512247-1/senate-homeland-security-hearing-colonial-pipeline-cyber-attack) 和 [https://www.hsgac.senate.gov/imo/media/doc/Testimony-Blount-2021-06-08.pdf](https://www.hsgac.senate.gov/imo/media/doc/Testimony-Blount-2021-06-08.pdf)
     >
     > - <sup>23</sup> 更多信息请访问 [https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware- extortionists-darkside](https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware- extortionists-darkside)
 
