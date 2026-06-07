@@ -1,6 +1,7 @@
-# Summary
+这是 [NIST SP800-82 修订 3](https://doi.org/10.6028/NIST.SP.800-82r3)，运营技术安全指南的中文翻译，使用 DeepL、谷歌机器翻译，并加上人工修改。
 
-[目录](./index.md)
+## 目录
+
 [摘要、关键字和报告，专利披露通知](./abstract_keywords_n_reports.md)
 [执行摘要](./executive_summary.md)
 
