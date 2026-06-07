@@ -60,3 +60,9 @@
     display: none;
   }
 }
+
+/* Top align content in all markdown tables */
+.content table td,
+.content table th {
+    vertical-align: top;
+}
