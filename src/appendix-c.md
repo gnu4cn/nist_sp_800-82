@@ -249,7 +249,7 @@ OT 系统中常见的潜在漏洞和诱发条件分类如以下表格所示：
     >
     > - <sup>22</sup> 有关 Colonial Pipeline 事件的更多信息，请访问 [https://www.c-span.org/video/?512247-1/senate-homeland-security-hearing-colonial-pipeline-cyber-attack](https://www.c-span.org/video/?512247-1/senate-homeland-security-hearing-colonial-pipeline-cyber-attack) 和 [https://www.hsgac.senate.gov/imo/media/doc/Testimony-Blount-2021-06-08.pdf](https://www.hsgac.senate.gov/imo/media/doc/Testimony-Blount-2021-06-08.pdf)
     >
-    > - <sup>23</sup> 更多信息请访问 [https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware- extortionists-darkside](https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware- extortionists-darkside)
+    > - <sup>23</sup> 更多信息请访问 [https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside](https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside)
 
 - **[M][I] 针对医疗保健的勒索软件** <sup>24</sup>。通过网络钓鱼攻击传播的一系列恶意软件，针对医疗保健和公共卫生部门，以破坏服务并窃取数据。 2020 年秋季，发布了 CISA 警报 (AA20-302A)，警告医疗保健和公共卫生部门公司此类攻击的普遍存在。
 
