@@ -2,42 +2,4 @@
 
 ## 目录
 
-[摘要、关键字和报告，专利披露通知](./abstract_keywords_n_reports.md)
-[执行摘要](./executive_summary.md)
-
----
-
-- [引言](./introduction.md)
-- [概述](./overview.md)
-- [第 3 部分，OT 网络安全计划的制订](./program_dev.md)
-- [第 4 部分，OT 的风险管理](./risk_management.md)
-- [第 5 部分，OT 网络安全架构](./arch.md)
-    - [网络安全战略](./arch/strategy.md)
-    - [纵深防御架构能力](./arch/capacities.md)
-    - [网络安全架构的其他考量](./arch/other_considerations.md)
-    - [网络安全架构模型](./arch/models.md)
-- [第 6 部分，应用网络安全框架于 OT](./cybersecurity_framework.md)
-    - [识别（ID）](./framework/identify.md)
-    - [保护 (PR)](./framework/protect.md)
-        - [身份管理与访问控制（PR.AC）](./framework/protect/auth.md)
-        - [意识与培训 (PR.AT)](./framework/protect/awareness_n_training.md)
-        - [数据安全（PR.DS）](./framework/protect/pr.ds.md)
-        - [信息保护流程与程序 (PR.IP)](./framework/protect/pr.ip.md)
-        - [维护 (PR.MA)](./framework/protect/maint.md)
-        - [保护技术（PR.PT）](./framework/protect/pr.pt.md)
-        - [介质保护 (PR.PT-2)](./framework/protect/media_protection.md)
-        - [人员安全](./framework/protect/personnel.md)
-        - [无线通信](./framework/protect/wireless_comm.md)
-        - [远程访问](./framework/protect/remote_access.md)
-        - [缺陷修复与补丁管理](./framework/protect/flaw_n_patch.md)
-        - [时间同步](./framework/protect/time_sync.md)
-    - [检测（DE）](./framework/detect.md)
-    - [响应（RS）](./framework/respond.md)
-    - [恢复（RC）](./framework/recovery.md)
-- [参考文献](./refs.md)
-- [附录 A，符号、缩写和首字母缩略词表](./appendix-a.md)
-- [附录 B，术语表](./appendix-b.md)
-- [附录 C, 威胁来源、漏洞与安全事件](./appendix-c.md)
-- [附录 D，运营技术安全组织、研究与活动](./appendix-d.md)
-- [附录 E，OT 安全能力与工具](./appendix-e.md)
-- [附录 F，OT 叠加层](./appendix-f.md)
+{{#include ./SUMMARY.md:9:}}
