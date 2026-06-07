@@ -219,7 +219,7 @@ OT 系统中常见的潜在漏洞和诱发条件分类如以下表格所示：
 
 - **[M][D] 纽约大坝** <sup>16</sup>。 2013 年，一家伊朗计算机安全公司获得了对位于纽约拉伊的鲍曼大坝 SCADA 系统控制计算机的远程访问权限。对手能够查看水位、温度和水闸的状态。对抗性远程访问时，闸门控制已断开进行维护，因此无法对大坝进行远程控制；
 
-    > **注**：<sup>16</sup> 美国司法部对纽约大坝袭击事件的起诉书可在 [](https://www.justice.gov/opa/file/834996/download) 找到
+    > **注**：<sup>16</sup> 美国司法部对纽约大坝袭击事件的起诉书可在 [(https://www.justice.gov/opa/file/834996/download](https://www.justice.gov/opa/file/834996/download) 找到
 
 - **[M][D] Dragonfly campaign, Havex** <sup>17</sup>。 能源部门成为主要使用 Havex 恶意软件的多年网络间谍活动的目标。 Havex 是一种远程访问特洛伊木马，他使用开放平台通信，Open Platform Communications, OPC 标准，来收集有关网络上已连接 ICS 设备的信息。这些活动是探索性的。
 
