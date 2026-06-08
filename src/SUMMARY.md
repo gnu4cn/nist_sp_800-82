@@ -41,5 +41,6 @@
     - [联盟和标准](./appendix-d/consortiums_n_standards.md)
     - [研究项目和计划](./appendix-d/initiatives_n_programs.md)
     - [工具和培训](./appendix-d/tools_n_training.md)
+    - [特定于部门的资源](./appendix-d/resources.md)
 - [附录 E，OT 安全能力与工具](./appendix-e.md)
 - [附录 F，OT 叠加层](./appendix-f.md)
