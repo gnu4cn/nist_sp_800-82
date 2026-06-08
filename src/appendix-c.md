@@ -235,7 +235,7 @@ OT 系统中常见的潜在漏洞和诱发条件分类如以下表格所示：
 
 - **[M][I]马士基，NotPetya**。 2017 年，NotPetya 恶意软件对全球计算机进行了加密，且无法解密。尽管该恶意软件最初针对的是乌克兰公司，但他已传播到世界各地，对马士基、联邦快递、默克和圣戈班产生了重大影响。该恶意软件破坏了马士基的数据并扰乱了运输业务，导致该公司的维修和恢复工作损失超过 3 亿美元；
 
-- **[M][D] 沙特石化，TRITON** <sup>20</sup>。沙特阿拉伯的一家石化设施遭到针对工业 SIS 的恶意软件的攻击。2017 年，当三重冗余处理器发现处理器之间的代码不匹配时，SIS 启动了石化流程的安全关闭；
+- **[M][D] 沙特石化，TRITON** <sup>20</sup>。沙特阿拉伯的一家石化设施遭到针对工业安全仪表系统 safety instrumented systems,  SIS 的恶意软件的攻击。2017 年，当三重冗余处理器发现处理器之间的代码不匹配时，SIS 启动了石化流程的安全关闭；
 
     > **注**：<sup>20</sup> 有关 TRITON 攻击的更多信息，请访问 [https://www.mandiant.com/resources/triton-actor-ttp-profile-custom-attack-tools-detections](https://www.mandiant.com/resources/triton-actor-ttp-profile-custom-attack-tools-detections)
 

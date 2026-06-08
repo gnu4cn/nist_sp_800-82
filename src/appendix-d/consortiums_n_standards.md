@@ -151,6 +151,122 @@ ISA99 标准开发委员会汇集了来自全球的工业网络安全专家，�
 ISASecure 计划是一项认证计划，根据 ISA/IEC 62443 系列标准对现成的自动化和控制系统进行认证。
 
 
+### ISA-TR84.00.09，与功能安全生命周期相关的网络安全
+
+这一文件提供了将网络安全生命周期，与安全生命周期集成的指南，因为他们与安全控制措施、警报和联锁，Safety Controls, Alarms, and Interlocks, SCAI 相关，包括安全仪表系统 safety instrumented systems, SIS。范围包括用于降低工业自动化和控制系统 IACS 网络网络安全威胁所涉及风险的工作流程和对策。
+
+[https://www.isa.org/products/isa-tr84-00-09-2017-cybersecurity-lated-to-the-f](https://www.isa.org/products/isa-tr84-00-09-2017-cybersecurity-lated-to-the-f)
+
+
+## 国际标准化组织 ISO
+
+国际标准化组织，the International Organization for Standardization, ISO 是个独立的非政府国际组织，拥有 165 个国家标准机构的成员。他通过其成员聚集专家，分享知识并制定自愿的、基于共识的、与市场相关的国际标准，以支持创新并为全球挑战提供解决方案。虽然 27001/27002 两项标准是针对 IT 系统和环境定义的，但他们在 OT 安全方面仍然有许多应用。每个标准的最新版本于 2013 年发布。
+
+[https://www.iso.org/home.html](https://www.iso.org/home.html)
+
+
+### ISO 27001
+
+ISO/IEC 27001 规定了在组织范围内建立、实施、维护和持续改进信息安全管理体系的要求。他还包括根据组织需求定制的信息安全风险评估和处理的要求。ISO/IEC 27001 中规定的要求是通用的，旨在适用于所有组织，无论其类型、规模或性质如何。
+
+[https://www.iso.org/standard/54534.html](https://www.iso.org/standard/54534.html)
+
+
+### ISO 27002:2022
+
+ISO/IEC 27002:2022 为组织信息安全标准和信息安全管理实践提供指南，包括控制措施的选择、实施和管理，同时考虑组织的信息安全风险环境。
+
+[https://www.iso.org/standard/75652.html](https://www.iso.org/standard/75652.html)
+
+
+## 国家信息共享和分析中心理事会 ISAC
+
+NCI 成立于 2003 年，由 25 个组织组成，是一个协调机构，旨在最大限度地提高私营部门关键基础设施之间，以及与政府之间的信息流动。信息共享和分析中心 Information Sharing and Analysis Centers, ISAC 帮助关键基础设施所有者和运营商保护其设施、人员和客户免受网络和物理安全威胁和其他危害。 ISAC 收集、分析并向其成员传播可采取行动的威胁信息，并提供降低风险和增强弹性的工具。ISAC 深入其部门，广泛传播关键信息并保持全部门的态势感知。
+
+[https://www.nationalisacs.org/member-isacs-3](https://www.nationalisacs.org/member-isacs-3)
+
+
+## 美国国家标准与技术研究院 NIST
+
+National Institute of Standards and Technology, NIST 通过推进测量科学、标准和技术，来增强经济安全和提高生活质量，从而促进美国的创新和产业竞争力。从智能电网和电子健康记录，到原子钟、先进纳米材料和计算机芯片，无数产品和服务都依赖于 NIST 的技术、测量和标准。NIST 的信息技术实验室 Information Technology Laboratory, ITL 开发并维护大量计算机安全标准、指南、建议和研究，并通过特别出版物 special publications, SP 和其他报告媒介发布。
+
+[https://csrc.nist.gov/publications/](https://csrc.nist.gov/publications/)
+
+
+### NIST SP 800 系列网络安全指南
+
+有关信息技术的 NIST SP 800 系列，报告了 NIST ITL 在计算机安全方面的研究、指导和推广工作，以及与行业、政府和学术组织的合作活动。重点领域包括加密技术和应用、高级身份验证、公钥基础设施、网络安全、标准和保证，以及安全管理和支持。
+
+[https://csrc.nist.gov/publications/sp800](https://csrc.nist.gov/publications/sp800)
+
+
+除了 NIST SP 800-82 之外，以下是广泛适用于 OT 安全社区的其他 800 系列文档的缩写列表：
+
+- NIST SP 800-30，修订版 1，*风险评估指南*；
+- NIST SP 800-37，修订版 2，*信息系统及组织的风险管理框架：安全和隐私的系统生命周期方法*；
+- NIST SP 800-40， 修订 4，*企业补丁管理规划指南：技术预防性维护*；
+- NIST SP 800-50，*构建信息技术安全意识和培训计划*；
+- NIST SP 800-53，修订 5，*信息系统和组织的安全和隐私控制*；
+- NIST SP 800-53A，修订版 5，*评估信息系统和组织的安全和隐私控制*；
+- NIST SP 800-53B，*信息系统和组织的控制基线*；
+- NIST SP 800-70，修订版 4，*IT 产品国家清单计划：清单用户和开发人员指南*；
+- NIST SP 800-98，*射频识别 (RFID) 系统安全指南*；
+- NIST SP 800-116，修订版 1，*在设施访问中使用 PIV 凭证的指南*；
+- NIST SP 800-123，*通用服务器安全指南*；
+- NIST SP 800-124，修订版 1，*企业中移动设备安全管理指南*；
+- NIST SP 800-125，*全虚拟化技术安全指南*；
+- NIST SP 800-137，*信息安全持续监控(ISCM) 联邦信息系统和组织*；
+- NIST SP 800-137A，*评估信息安全持续监控 (ISCM) 计划：制定 ISCM 计划评估*；
+- NIST SP 800-150，*网络威胁信息共享指南*；
+- NIST SP 800-160 卷 1，*系统安全工程：可信安全系统工程中多学科方法的考虑因素*；
+- NIST SP 800-160 卷 2，修订 1，*开发网络弹性系统：系统安全工程方法*。
+
+
+### NIST SP 1800 系列网络安全实践指南
+
+NIST SP 1800 系列提供了实用且可用的解决方案，用于在现实世界中应用基于标准的网络安全方法和最佳实践。这些指南旨在帮助组织提高实施网络安全技术的效率，同时节省研究和概念验证成本。1800 文档可以将功能映射到网络安全框架，并概述其他实体或组织重新创建示例解决方案所需的步骤。
+
+[https://csrc.nist.gov/publications/sp1800](https://csrc.nist.gov/publications/sp1800)
+
+
+以下 1800 系列文档适用于 OT 安全社区：
+
+- NIST SP 1800-2，*电力公司的身份和访问管理*；
+- NIST SP 1800-7，*电力公司的态势感知*；
+- NIST SP 1800-8，*保护医疗保健服务组织中的无线输液泵*；
+- NIST SP 1800-10，*保护工业控制系统环境中的信息和系统完整性：制造业的网络安全*；
+- NIST SP 1800-11，*数据完整性：从勒索软件和其他破坏性事件中恢复*；
+- NIST SP 1800-23，*能源部门资产管理：适用于电力公用事业、石油和天然气行业*；
+- NIST SP 1800-24，*保护图片存档和安全通信系统 (PACS)：医疗保健行业的网络安全*；
+- NIST SP 1800-25，*数据完整性：识别和保护资产免受勒索软件和其他破坏性事件的影响*；
+- NIST SP 1800-26，*数据完整性：检测和响应勒索软件和其他破坏性事件*；
+- NIST SP 1800-27，*保护物业管理系统*；
+- NIST SP 1800-30，*保护远程医疗远程患者监控生态系统*；
+- NIST SP 1800-32，*保护分布式能源：工业物联网示例*。
+
+
+### NIST 内部或机构间报告
+
+NIST IR 系列文件属于研究结果的报告，包括 FIPS 和 SP 的背景信息。
+
+[https://csrc.nist.gov/publications/ir](https://csrc.nist.gov/publications/ir)
+
+
+以下 NIST IR 文档适用于 OT 安全社区：
+
+- NIST IR 7628，修订版 1，*智能电网网络安全指南*；
+- NIST IR 8011 卷 1，*安全控制评估的自动化支持：卷 1：概述*；
+- NIST IR 8011 卷 2，*安全控制评估的自动化支持：卷 2：硬件资产管理*；
+- NIST IR 8011 卷 3，*安全控制评估的自动化支持：软件资产管理*；
+- NIST IR 8011 卷 4，*安全控制评估的自动化支持：软件漏洞管理*；
+- NIST IR 8170，*联邦机构使用网络安全框架的方法*；
+- NIST IR 8183，修订版 1，*网络安全框架版本 1.1 制造简介*；
+- NIST IR 8183A 卷 1，*网络安全框架制造概况低影响级别示例实施指南：卷 1 -– 一般实施指南*；
+- NIST IR 8183A 卷 2，*网络安全框架制造概况低影响级别示例实施指南：卷 2 -– 基于流程的制造系统用例*；
+- NIST IR 8183A 卷 3，*网络安全框架制造概况低影响级别示例实施指南：卷 3 -– 基于离散的制造系统用例*；
+- NIST IR 8212，*ISCMA：信息安全持续监控计划评估，An Information Security Continuous Monitoring Program Assessment*；
+- NIST IR 8219，*保护制造工业控制系统：行为异常检测*。
+
 
 <a name="nerc"></a>
 ## 北美电力可靠性公司，NERC
@@ -167,3 +283,42 @@ ISASecure 计划是一项认证计划，根据 ISA/IEC 62443 系列标准对现�
 NERC 是一个依靠行业参与者多样化且集体专业知识的自律组织。作为电力可靠性组织，NERC 受美国联邦能源监管委员会和加拿大政府机构的审计。
 
 [https://www.nerc.com](https://www.nerc.com)
+
+### NERC 关键基础设施保护 CIP 标准
+
+NERC 发布了一套网络安全标准，以降低发电资源和 100 kV 以上高压输电系统，也称为大容量电力系统 bulk eletric systems, BES 受到损害的风险。大容量电力系统包括
+
+- 平衡机构、
+- 可靠性协调机构、
+- 互换机构、
+- 输电提供商、
+- 输电所有者、
+- 输电运营商、
+- 发电所有者、
+- 发电运营商、
+- 和负载服务实体。
+
+网络安全标准包括审计措施和可与处罚挂钩的违规程度。NERC 目前维护着 12 项需要强制执行的关键基础设施保护 (CIP) 标准，另外还有两项标准已提交并等待监管机构批准。
+
+[https://www.nerc.com/pa/Stand/Pages/ReliabilityStandards.aspx](https://www.nerc.com/pa/Stand/Pages/ReliabilityStandards.aspx)
+
+- CIP-002，网络安全 - BES 网络系统分类
+- CIP-003，网络安全 - 安全管理控制
+- CIP-004，网络安全 - 人员和培训
+- CIP-005，网络安全 - 电子安全边界
+- CIP-006，网络安全 - BES 网络系统的物理安全
+- CIP-007，网络安全 - 系统安全管理
+- CIP-008，网络安全 - 事件报告和响应计划
+- CIP-009，网络安全 - BES 网络系统恢复计划
+- CIP-010，网络安全 - 配置变更管理和漏洞评估
+- CIP-011，网络安全 - 信息保护
+- CIP-013，网络安全 - 供应链风险管理
+- CIP-014，网络安全 - 物理安全
+
+
+## 运营技术网络安全联盟
+
+运营技术网络安全联盟的使命是推广开放、供应商中立、可互操作、基于标准的 OT 网络安全解决方案。
+
+[https://www.otcybercoalition.org/](https://www.otcybercoalition.org/)
+
