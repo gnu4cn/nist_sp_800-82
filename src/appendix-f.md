@@ -85,10 +85,227 @@ ICS 由控制组件（例如电气、机械、液压、气动）组合组成，�
         <td><b>AC-2</b>(1)<b>(2)</b>(3)(4)<b>(5)</b>(11)(12)<b>(13)</b></td>
     </tr>
     <tr>
+        <td>AC-3</td>
+        <td>访问管控，Access Enforcement</td>
+        <td><b>AC-3</b></td>
+        <td><b>AC-3</b></td>
+        <td><b>AC-3 <u>(13)</u></b></td>
+    </tr>
+    <tr>
+        <td>AC-4</td>
+        <td>信息流管控，Information Flow Enforcement</td>
+        <td></td>
+        <td><b>AC-4</b></td>
+        <td><b>AC-4</b>(4)</td>
+    </tr>
+    <tr>
+        <td>AC-5</td>
+        <td>职责分离，Separation of Duties</td>
+        <td></td>
+        <td><b>AC-5</b></td>
+        <td><b>AC-5</b></td>
+    </tr>
+    <tr>
+        <td>AC-6</td>
+        <td>最小权限，Least Privilege</td>
+        <td></td>
+        <td><b>AC-6 (1)(2)(5)</b>(7)<b>(9)(10)</b></td>
+        <td><b>AC-6 (1)(2)(3)(5)</b>(7)<b>(9)(10)</b></td>
+    </tr>
+    <tr>
+        <td>AC-7</td>
+        <td>未成功的登录尝试，Unsuccessful Logon Attempts</td>
+        <td><b>AC-7</b></td>
+        <td><b>AC-7</b></td>
+        <td><b>AC-7</b></td>
+    </tr>
+    <tr>
+        <td>AC-8</td>
+        <td>系统使用通知，Sytem Use Notification</td>
+        <td><b>AC-8</b></td>
+        <td><b>AC-8</b></td>
+        <td><b>AC-8</b></td>
+    </tr>
+    <tr>
+        <td>AC-10</td>
+        <td>并发会话控制，Concurrent Session Control</td>
         <td></td>
         <td></td>
+        <td><b>AC-10</b></td>
+    </tr>
+    <tr>
+        <td>AC-11</td>
+        <td>设备上锁，Device Lock</td>
+        <td></td>
+        <td><b>AC-11 (1)</b></td>
+        <td><b>AC-11 (1)</b></td>
+    </tr>
+    <tr>
+        <td>AC-12</td>
+        <td>会话终止，Session Termination</td>
+        <td></td>
+        <td><b>AC-12</b></td>
+        <td><b>AC-12</b></td>
+    </tr>
+    <tr>
+        <td>AC-14</td>
+        <td>无需身份验证或认证的允许行为，Permitted Actions without Identification or Authentication</td>
+        <td>AC-14</td>
+        <td>AC-14</td>
+        <td>AC-14</td>
+    </tr>
+    <tr>
+        <td>AC-17</td>
+        <td>远程访问</td>
+        <td><b>AC-17 <u>(9)</u></b></td>
+        <td><b>AC-17 (1)(2)(3)</b>(4)<b><u>(9)</u></b><u>(10)</u></td>
+        <td><b>AC-17 (1)(2)(3)</b>(4)<b><u>(9)</u></b><u>(10)</u></td>
+    </tr>
+    <tr>
+        <td>AC-18</td>
+        <td>无线访问</td>
+        <td><b>AC-18</b></td>
+        <td><b>AC-18 (1)</b>(3)</td>
+        <td><b>AC-18 (1)</b>(3)(4)<b>(5)</b></td>
+    </tr>
+    <tr>
+        <td>AC-19</td>
+        <td>移动设备的访问控制，Access Control for Mobile Devices</td>
+        <td>AC-19</td>
+        <td>AC-19 (5)</td>
+        <td>AC-19 (5)</td>
+    </tr>
+    <tr>
+        <td>AC-20</td>
+        <td>使用外部系统，Use of External System</td>
+        <td><b>AC-20</b></td>
+        <td><b>AC-20</b>(1)(2)</td>
+        <td><b>AC-20</b>(1)(2)</td>
+    </tr>
+    <tr>
+        <td>AC-21</td>
+        <td>信息共享</td>
+        <td></td>
+        <td>AC-21</td>
+        <td>AC-21</td>
+    </tr>
+    <tr>
+        <td>AC-22</td>
+        <td>公开内容，Publicly Accessible Content</td>
+        <td><b>AC-22</b></td>
+        <td><b>AC-22</b></td>
+        <td><b>AC-22</b></td>
+    </tr>
+    <tr>
+        <td>AT-1</td>
+        <td>政策与程序，Policy and Procedures</td>
+        <td><b>AT-1</b></td>
+        <td><b>AT-1</b></td>
+        <td><b>AT-1</b></td>
+    </tr>
+    <tr>
+        <td>AT-2</td>
+        <td>扫盲培训和意识，Literacy Training and Awareness</td>
+        <td><b>AT-2</b>(2)</td>
+        <td><b>AT-2</b>(2)(3)<u><b>(4)</b></u></td>
+        <td><b>AT-2</b>(2)(3)<u><b>(4)</b></u></td>
+    </tr>
+    <tr>
+        <td>AT-3</td>
+        <td>根据角色的培训，Role-Based Training</td>
+        <td><b>AT-3</b></td>
+        <td><b>AT-3</b></td>
+        <td><b>AT-3</b></td>
+    </tr>
+    <tr>
+        <td>AT-4</td>
+        <td>培训记录，Training Records</td>
+        <td>AT-4</td>
+        <td>AT-4</td>
+        <td>AT-4</td>
+    </tr>
+    <tr>
+        <td>AU-1</td>
+        <td>政策和程序</td>
+        <td><b>AU-1</b></td>
+        <td><b>AU-1</b></td>
+        <td><b>AU-1</b></td>
+    </tr>
+    <tr>
+        <td>AU-2</td>
+        <td>事件日志记录，Event Logging</td>
+        <td><b>AU-2</b></td>
+        <td><b>AU-2</b></td>
+        <td><b>AU-2</b></td>
+    </tr>
+    <tr>
+        <td>AU-3</td>
+        <td>审计记录内容，Content of Audit Records</td>
+        <td>AU-3</td>
+        <td>AU-3</td>
+        <td>AU-3</td>
+    </tr>
+    <tr>
+        <td>AU-4</td>
+        <td>审计日志存储容量，Audit Log Storage Capacity</td>
+        <td>AU-4 <u>(1)</u></td>
+        <td>AU-4 <u>(1)</u></td>
+        <td>AU-4 <u>(1)</u></td>
+    </tr>
+    <tr>
+        <td>AU-5</td>
+        <td>对审计日志记录过程失败的响应, Reponse to Audit Logging Process Failures</td>
+        <td>AU-5</td>
+        <td>AU-5</td>
+        <td>AU-5 (1)(2)</td>
+    </tr>
+    <tr>
+        <td>AU-6</td>
+        <td>审计记录回顾、分析与汇报，Audit Record Review, Analysis, and Reporting</td>
+        <td>AU-6</td>
+        <td>AU-6 <b>(1)</b>(3)</td>
+        <td>AU-6 <b>(1)</b>(3)(5)(6)</td>
+    </tr>
+    <tr>
+        <td>AU-7</td>
+        <td>审计记录缩减和报告生成，Audit Record Reduction and Report Generation</td>
+        <td></td>
+        <td>AU-7 (1)</td>
+        <td>AU-7 (1)</td>
+    </tr>
+    <tr>
+        <td>AU-8</td>
+        <td>时间戳，Time Stamps</td>
+        <td><b>AU-8</b></td>
+        <td><b>AU-8</b></td>
+        <td><b>AU-8</b></td>
+    </tr>
+    <tr>
+        <td>AU-9</td>
+        <td>审计信息保护，Protection of Audit Information</td>
+        <td>AU-9</td>
+        <td>AU-9 (4)</td>
+        <td>AU-9 (2)(3)(4)</td>
+    </tr>
+    <tr>
+        <td>AU-10</td>
+        <td>不可否认性，Non-repudidation</td>
         <td></td>
         <td></td>
-        <td></td>
+        <td><b>AU-10</b></td>
+    </tr>
+    <tr>
+        <td>AU-11</td>
+        <td>审计记录保留, Audit Record Retention</td>
+        <td>AU-11</td>
+        <td>AU-11</td>
+        <td>AU-11</td>
+    </tr>
+    <tr>
+        <td>AU-12</td>
+        <td>审计生成, Audit Generation</td>
+        <td>AU-12</td>
+        <td>AU-12</td>
+        <td>AU-12 <b>(1)(3)</b></td>
     </tr>
 <table>
