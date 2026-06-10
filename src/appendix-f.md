@@ -308,4 +308,334 @@ ICS 由控制组件（例如电气、机械、液压、气动）组合组成，�
         <td>AU-12</td>
         <td>AU-12 <b>(1)(3)</b></td>
     </tr>
+    <tr>
+        <td>CA-1</td>
+        <td>政策和程序</td>
+        <td><b>CA-1</b></td>
+        <td><b>CA-1</b></td>
+        <td><b>CA-1</b></td>
+    </tr>
+    <tr>
+        <td>CA-2</td>
+        <td>控制措施评估，Control Assessments</td>
+        <td><b>CA-2</b></td>
+        <td><b>CA-2</b>(1)</td>
+        <td><b>CA-2</b>(1)<b>(2)</b></td>
+    </tr>
+    <tr>
+        <td>CA-3</td>
+        <td>信息交换，Information Exchange</td>
+        <td><b>CA-3</b></td>
+        <td><b>CA-3</b></td>
+        <td><b>CA-3</b>(6)</td>
+    </tr>
+    <tr>
+        <td>CA-5</td>
+        <td>行动计划和里程碑, Plan of Action and Milestones</td>
+        <td><b>CA-5</b></td>
+        <td><b>CA-5</b></td>
+        <td><b>CA-5</b></td>
+    </tr>
+    <tr>
+        <td>CA-6</td>
+        <td>授权，Authorization</td>
+        <td>CA-6</td>
+        <td>CA-6</td>
+        <td>CA-6</td>
+    </tr>
+    <tr>
+        <td>CA-7</td>
+        <td>持续监控，Continuous Monitoring</td>
+        <td><b>CA-7</b>(4)</td>
+        <td><b>CA-7</b>(1)(4)</td>
+        <td><b>CA-7</b>(1)(4)</td>
+    </tr>
+    <tr>
+        <td>CA-8</td>
+        <td>渗透测试，Penetration Testing</td>
+        <td></td>
+        <td></td>
+        <td><b>CA-8</b><s>(1)</s></td>
+    </tr>
+    <tr>
+        <td>CA-9</td>
+        <td>内部系统的连接，Internal System Connections</td>
+        <td><b>CA-9</b></td>
+        <td><b>CA-9</b></td>
+        <td><b>CA-9</b></td>
+    </tr>
+    <tr>
+        <td>CM-1</td>
+        <td>政策和程序</td>
+        <td><b>CM-1</b></td>
+        <td><b>CM-1</b></td>
+        <td><b>CM-1</b></td>
+    </tr>
+    <tr>
+        <td>CM-2</td>
+        <td>基线配置，Baseline Configuration</td>
+        <td>CM-2</td>
+        <td>CM-2 (2)(3)(7)</td>
+        <td>CM-2 (2)(3)(7)</td>
+    </tr>
+    <tr>
+        <td>CM-3</td>
+        <td>配置变更控制措施，Configuration Change Control</td>
+        <td></td>
+        <td><b>CM-3</b>(2)(4)</td>
+        <td><b>CM-3</b>(1)(2)(4)(6)</td>
+    </tr>
+    <tr>
+        <td>CM-4</td>
+        <td>影响分析，Impact Analysis</td>
+        <td><b>CM-4</b></td>
+        <td><b>CM-4</b>(2)</td>
+        <td><b>CM-4</b>(1)(2)</td>
+    </tr>
+    <tr>
+        <td>CM-5</td>
+        <td>变更的访问限制，Access Restrictions for Change</td>
+        <td><b>CM-5</b></td>
+        <td><b>CM-5</b></td>
+        <td><b>CM-5</b>(1)</td>
+    </tr>
+    <tr>
+        <td>CM-6</td>
+        <td>配置设置，Configuration Settings</td>
+        <td>CM-6</td>
+        <td>CM-6</td>
+        <td>CM-6 (1)(2)</td>
+    </tr>
+    <tr>
+        <td>CM-7</td>
+        <td>最少的功能，Least Functionality</td>
+        <td><b>CM-7</b></td>
+        <td><b>CM-7</b>(1)(2)<b>(5)</b></td>
+        <td><b>CM-7</b>(1)(2)<b>(5)</b></td>
+    </tr>
+    <tr>
+        <td>CM-8</td>
+        <td>系统组件库，System Component Inventory</td>
+        <td>CM-8</td>
+        <td>CM-8 (1)(3)</td>
+        <td>CM-8 (1)(2)(3)(4)</td>
+    </tr>
+    <tr>
+        <td>CM-9</td>
+        <td>配置管理计划，Configuration Management Plan</td>
+        <td></td>
+        <td><b>CM-9</b></td>
+        <td><b>CM-9</b></td>
+    </tr>
+    <tr>
+        <td>CM-10</td>
+        <td>软件使用限制，Software Usage Restrictions</td>
+        <td>CM-10</td>
+        <td>CM-10</td>
+        <td>CM-10</td>
+    </tr>
+    <tr>
+        <td>CM-11</td>
+        <td>用户安装的软件，User Installed Software</td>
+        <td>CM-11</td>
+        <td>CM-11</td>
+        <td>CM-11</td>
+    </tr>
+    <tr>
+        <td>CM-12</td>
+        <td>信息位置，Information Location</td>
+        <td></td>
+        <td><b>CM-12</b>(1)</td>
+        <td><b>CM-12</b>(1)</td>
+    </tr>
+    <tr>
+        <td>CP-1</td>
+        <td>政策与程序</td>
+        <td><b>CP-1</b></td>
+        <td><b>CP-1</b></td>
+        <td><b>CP-1</b></td>
+    </tr>
+    <tr>
+        <td>CP-2</td>
+        <td>应急计划，Contingency Plan</td>
+        <td><b>CP-2</b></td>
+        <td><b>CP-2</b>(1)(3)(8)</td>
+        <td><b>CP-2</b>(1)(2)(3)(5)(8)</td>
+    </tr>
+    <tr>
+        <td>CP-3</td>
+        <td>应急培训，Contingency Training</td>
+        <td>CP-3</td>
+        <td>CP-3</td>
+        <td>CP-3 (1)</td>
+    </tr>
+    <tr>
+        <td>CP-4</td>
+        <td>应急计划测试，Contingency Plan Testing</td>
+        <td>CP-4</td>
+        <td>CP-4 (1)</td>
+        <td>CP-4 (1)<b>(2)</b></td>
+    </tr>
+    <tr>
+        <td>CP-6</td>
+        <td>备用存储站点，Alternate Storage Site</td>
+        <td></td>
+        <td>CP-6 (1)(3)</td>
+        <td>CP-6 (1)(2)(3)</td>
+    </tr>
+    <tr>
+        <td>CP-7</td>
+        <td>替代处理地点，Alternate Processing Site</td>
+        <td></td>
+        <td><b>CP-7</b>(1)(2)(3)</td>
+        <td><b>CP-7</b>(1)(2)(3)(4)</td>
+    </tr>
+    <tr>
+        <td>CP-8</td>
+        <td>电讯服务，Telecommunications Services</td>
+        <td></td>
+        <td><b>CP-8</b>(1)(2)</td>
+        <td><b>CP-8</b>(1)(2))(3)(4)</td>
+    </tr>
+    <tr>
+        <td>CP-9</td>
+        <td>系统备份，System Backup</td>
+        <td>CP-9</td>
+        <td>CP-9<b>(1)</b>(8)</td>
+        <td>CP-9<b>(1)(2)</b>(3)(5)(8)</td>
+    </tr>
+    <tr>
+        <td>CP-10</td>
+        <td>系统恢复与重建，System Recovery and Reconstitution</td>
+        <td><b>CP-10</b></td>
+        <td><b>CP-10</b>(2)<u><b>(6)</b></u></td>
+        <td><b>CP-10</b>(2)(4)<u><b>(6)</b></u></td>
+    </tr>
+    <tr>
+        <td>CP-12</td>
+        <td>安全模式，Safe Mode</td>
+        <td><u>CP-12</u></td>
+        <td><u>CP-12</u></td>
+        <td><u>CP-12</u></td>
+    </tr>
+    <tr>
+        <td>IA-1</td>
+        <td>政策与程序</td>
+        <td><b>IA-1</b></td>
+        <td><b>IA-1</b></td>
+        <td><b>IA-1</b></td>
+    </tr>
+    <tr>
+        <td>IA-2</td>
+        <td>身份识别和认证（组织用户），Identification and Authentication (Organizational Users)</td>
+        <td><b>IA-2(1)(2)</b>(8)<b>(12)</b></td>
+        <td><b>IA-2(1)(2)</b>(8)<b>(12)</b></td>
+        <td><b>IA-2(1)(2)(5)</b>(8)<b>(12)</b></td>
+    </tr>
+    <tr>
+        <td>IA-3</td>
+        <td>设备识别与认证</td>
+        <td><u>IA-3</u></td>
+        <td>IA-3</td>
+        <td>IA-3</td>
+    </tr>
+    <tr>
+        <td>IA-4</td>
+        <td>标识符管理，Identifier Management</td>
+        <td>IA-4</td>
+        <td>IA-4<b>(4)</b></td>
+        <td>IA-4<b>(4)</b></td>
+    </tr>
+    <tr>
+        <td>IA-5</td>
+        <td>认证器管理, Authenticator Management</td>
+        <td><b>IA-5</b>(1)</td>
+        <td><b>IA-5</b>(1)(2)(6)</td>
+        <td><b>IA-5</b>(1)(2)(6)</td>
+    </tr>
+    <tr>
+        <td>IA-7</td>
+        <td>加密模组认证，Cryptographic Module Authentication</td>
+        <td>IA-7</td>
+        <td>IA-7</td>
+        <td>IA-7</td>
+    </tr>
+    <tr>
+        <td>IA-8</td>
+        <td>身份识别和认证（非组织用户），Identification and Authentication (Non-Organizational Users)</td>
+        <td><b>IA-8(1)(2)(4)</b></td>
+        <td><b>IA-8(1)(2)(4)</b></td>
+        <td><b>IA-8(1)(2)(4)</b></td>
+    </tr>
+    <tr>
+        <td>IA-11</td>
+        <td>重新认证，Re-authentication</td>
+        <td>IA-11</td>
+        <td>IA-11</td>
+        <td>IA-11</td>
+    </tr>
+    <tr>
+        <td>IA-12</td>
+        <td>身份证明，Identity Proofing</td>
+        <td></td>
+        <td><b>IA-12 (2)(3)(5)</b></td>
+        <td><b>IA-12 <u>(1)</u>(2)(3)(4)(5)</b></td>
+    </tr>
+    <tr>
+        <td>IR-</td>
+        <td></td>
+        <td><b>IR-</b></td>
+        <td><b>IR-</b></td>
+        <td><b>IR-</b></td>
+    </tr>
+    <tr>
+        <td>IR-</td>
+        <td></td>
+        <td><b>IR-</b></td>
+        <td><b>IR-</b></td>
+        <td><b>IR-</b></td>
+    </tr>
+    <tr>
+        <td>IR-</td>
+        <td></td>
+        <td><b>IR-</b></td>
+        <td><b>IR-</b></td>
+        <td><b>IR-</b></td>
+    </tr>
+    <tr>
+        <td>IR-</td>
+        <td></td>
+        <td><b>IR-</b></td>
+        <td><b>IR-</b></td>
+        <td><b>IR-</b></td>
+    </tr>
+    <tr>
+        <td>IR-</td>
+        <td></td>
+        <td><b>IR-</b></td>
+        <td><b>IR-</b></td>
+        <td><b>IR-</b></td>
+    </tr>
+    <tr>
+        <td>IR-</td>
+        <td></td>
+        <td><b>IR-</b></td>
+        <td><b>IR-</b></td>
+        <td><b>IR-</b></td>
+    </tr>
+    <tr>
+        <td>IR-</td>
+        <td></td>
+        <td><b>IR-</b></td>
+        <td><b>IR-</b></td>
+        <td><b>IR-</b></td>
+    </tr>
+    <tr>
+        <td>IR-</td>
+        <td></td>
+        <td><b>IR-</b></td>
+        <td><b>IR-</b></td>
+        <td><b>IR-</b></td>
+    </tr>
+
 <table>
