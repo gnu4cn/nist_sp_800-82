@@ -584,58 +584,310 @@ ICS 由控制组件（例如电气、机械、液压、气动）组合组成，�
     <tr>
         <td>IR-1</td>
         <td>政策与程序</td>
-        <td><b>IR-</b></td>
-        <td><b>IR-</b></td>
-        <td><b>IR-</b></td>
+        <td><b>IR-1</b></td>
+        <td><b>IR-1</b></td>
+        <td><b>IR-1</b></td>
     </tr>
     <tr>
-        <td>IR-</td>
-        <td></td>
-        <td><b>IR-</b></td>
-        <td><b>IR-</b></td>
-        <td><b>IR-</b></td>
+        <td>IR-2</td>
+        <td>事件响应培训，Incident Response Training</td>
+        <td>IR-2</td>
+        <td>IR-2</td>
+        <td>IR-2 (1)(2)</td>
     </tr>
     <tr>
-        <td>IR-</td>
+        <td>IR-3</td>
+        <td>事件相应测试，Incident Response Testing</td>
         <td></td>
-        <td><b>IR-</b></td>
-        <td><b>IR-</b></td>
-        <td><b>IR-</b></td>
+        <td>IR-3 (2)</td>
+        <td>IR-3 (2)</td>
     </tr>
     <tr>
-        <td>IR-</td>
-        <td></td>
-        <td><b>IR-</b></td>
-        <td><b>IR-</b></td>
-        <td><b>IR-</b></td>
+        <td>IR-4</td>
+        <td>事件处理，Incident Handling</td>
+        <td><b>IR-4</b></td>
+        <td><b>IR-4</b>(1)</td>
+        <td><b>IR-4</b>(1)(4)(11)</td>
     </tr>
     <tr>
-        <td>IR-</td>
-        <td></td>
-        <td><b>IR-</b></td>
-        <td><b>IR-</b></td>
-        <td><b>IR-</b></td>
+        <td>IR-5</td>
+        <td>事件监控，Incident Monitoring</td>
+        <td>IR-5</td>
+        <td>IR-5</td>
+        <td>IR-5 (1)</td>
     </tr>
     <tr>
-        <td>IR-</td>
-        <td></td>
-        <td><b>IR-</b></td>
-        <td><b>IR-</b></td>
-        <td><b>IR-</b></td>
+        <td>IR-6</td>
+        <td>事件报告，Incident Reporting</td>
+        <td><b>IR-6</b></td>
+        <td><b>IR-6 (1)</b>(3)</td>
+        <td><b>IR-6 (1)</b>(3)</td>
     </tr>
     <tr>
-        <td>IR-</td>
-        <td></td>
-        <td><b>IR-</b></td>
-        <td><b>IR-</b></td>
-        <td><b>IR-</b></td>
+        <td>IR-7</td>
+        <td>事件响应援助，Incident Response Assistance</td>
+        <td>IR-7</td>
+        <td>IR-7 (1)</td>
+        <td>IR-7 (1)</td>
     </tr>
     <tr>
-        <td>IR-</td>
+        <td>IR-8</td>
+        <td>事件响应计划，Incident Response Plan</td>
+        <td>IR-8</td>
+        <td>IR-8</td>
+        <td>IR-8</td>
+    </tr>
+    <tr>
+        <td>MA-1</td>
+        <td>政策与程序</td>
+        <td>MA-1</td>
+        <td>MA-1</td>
+        <td>MA-1</td>
+    </tr>
+    <tr>
+        <td>MA-2</td>
+        <td>受控的维护，Crontolled Maintenance</td>
+        <td>MA-2</td>
+        <td>MA-2</td>
+        <td>MA-2 (2)</td>
+    </tr>
+    <tr>
+        <td>MA-3</td>
+        <td>维护工具，Maintenance Tools</td>
         <td></td>
-        <td><b>IR-</b></td>
-        <td><b>IR-</b></td>
-        <td><b>IR-</b></td>
+        <td>MA-3 (1)(2)(3)</td>
+        <td>MA-3 (1)(2)(3)</td>
+    </tr>
+    <tr>
+        <td>MA-4</td>
+        <td>异地维护，Nonlocal Maintenance</td>
+        <td>MA-4</td>
+        <td>MA-4 <u>(1)</u></td>
+        <td>MA-4 <u>(1)</u><b>(3)</b></td>
+    </tr>
+    <tr>
+        <td>MA-5</td>
+        <td>维护人员，Maintenance Personnel</td>
+        <td>MA-5</td>
+        <td>MA-5</td>
+        <td>MA-5 (1)</td>
+    </tr>
+    <tr>
+        <td>MA-6</td>
+        <td>定时/及时维护，Timely Maintenance</td>
+        <td></td>
+        <td>MA-6</td>
+        <td>MA-6</td>
+    </tr>
+    <tr>
+        <td>MA-7</td>
+        <td>现场维护</td>
+        <td><u><b>MA-7</b></u></td>
+        <td><u><b>MA-7</b></u></td>
+        <td><u><b>MA-7</b></u></td>
+    </tr>
+    <tr>
+        <td>MP-1</td>
+        <td>政策与程序</td>
+        <td><b>MP-1</b></td>
+        <td><b>MP-1</b></td>
+        <td><b>MP-1</b></td>
+    </tr>
+    <tr>
+        <td>MP-2</td>
+        <td>介质访问，Media Access</td>
+        <td>MP-2</td>
+        <td>MP-2</td>
+        <td>MP-2</td>
+    </tr>
+    <tr>
+        <td>MP-3</td>
+        <td>介质标记，Media Access</td>
+        <td></td>
+        <td>MP-3</td>
+        <td>MP-3</td>
+    </tr>
+    <tr>
+        <td>MP-4</td>
+        <td>介质存储，Media Storage</td>
+        <td></td>
+        <td>MP-4</td>
+        <td>MP-4</td>
+    </tr>
+    <tr>
+        <td>MP-5</td>
+        <td>介质传输，Media Transport</td>
+        <td></td>
+        <td>MP-5</td>
+        <td>MP-5</td>
+    </tr>
+    <tr>
+        <td>MP-6</td>
+        <td>介质净化，Media Sanitization</td>
+        <td>MP-6</td>
+        <td>MP-6</td>
+        <td>MP-6 (1)(2)(3)</td>
+    </tr>
+    <tr>
+        <td>MP-7</td>
+        <td>介质使用，Meida Use</td>
+        <td>MP-7</td>
+        <td>MP-7</td>
+        <td>MP-7</td>
+    </tr>
+    <tr>
+        <td>PE-1</td>
+        <td>政策与程序</td>
+        <td><b>PE-1</b></td>
+        <td><b>PE-1</b></td>
+        <td><b>PE-1</b></td>
+    </tr>
+    <tr>
+        <td>PE-2</td>
+        <td>物理访问授权，Physical Access Authorization</td>
+        <td>PE-2</td>
+        <td>PE-2</td>
+        <td>PE-2</td>
+    </tr>
+    <tr>
+        <td>PE-3</td>
+        <td>物理访问控制，Physical Access Control</td>
+        <td><b>PE-3</b></td>
+        <td><b>PE-3</b></td>
+        <td><b>PE-3</b>(1)</td>
+    </tr>
+    <tr>
+        <td>PE-4</td>
+        <td>传输的访问控制，Access Control for Tansmission</td>
+        <td></td>
+        <td>PE-4</td>
+        <td>PE-4</td>
+    </tr>
+    <tr>
+        <td>PE-5</td>
+        <td>输出设备的访问控制，Access Control for Output Devices</td>
+        <td></td>
+        <td>PE-5</td>
+        <td>PE-5</td>
+    </tr>
+    <tr>
+        <td>PE-6</td>
+        <td>监控物理访问，Monitoring Physical Access</td>
+        <td>PE-6</td>
+        <td>PE-6 (1)<u>(4)</u></td>
+        <td>PE-6 (1)(4)</td>
+    </tr>
+    <tr>
+        <td>PE-8</td>
+        <td>访客访问记录，Visitor Access Records</td>
+        <td>PE-8</td>
+        <td>PE-8</td>
+        <td>PE-8 (1)</td>
+    </tr>
+    <tr>
+        <td>PE-9</td>
+        <td>电力设备和布线，Power Equipment and Cabling</td>
+        <td></td>
+        <td>PE-9</td>
+        <td>PE-9</td>
+    </tr>
+    <tr>
+        <td>PE-</td>
+        <td></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+    </tr>
+    <tr>
+        <td>PE-</td>
+        <td></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+    </tr>
+    <tr>
+        <td>PE-</td>
+        <td></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+    </tr>
+    <tr>
+        <td>PE-</td>
+        <td></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+    </tr>
+    <tr>
+        <td>PE-</td>
+        <td></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+    </tr>
+    <tr>
+        <td>PE-</td>
+        <td></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+    </tr>
+    <tr>
+        <td>PE-</td>
+        <td></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+    </tr>
+    <tr>
+        <td>PE-</td>
+        <td></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+    </tr>
+    <tr>
+        <td>PE-</td>
+        <td></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+    </tr>
+    <tr>
+        <td>PE-</td>
+        <td></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+    </tr>
+    <tr>
+        <td>PE-</td>
+        <td></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+    </tr>
+    <tr>
+        <td>PE-</td>
+        <td></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+    </tr>
+    <tr>
+        <td>PE-</td>
+        <td></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+    </tr>
+    <tr>
+        <td>PE-</td>
+        <td></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
+        <td><b>PE-</b></td>
     </tr>
 
 <table>
