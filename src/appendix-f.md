@@ -792,102 +792,339 @@ ICS 由控制组件（例如电气、机械、液压、气动）组合组成，�
         <td>PE-9</td>
     </tr>
     <tr>
-        <td>PE-</td>
+        <td>PE-10</td>
+        <td>紧急关闭，Emergency Shutoff</td>
         <td></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
+        <td><b>PE-10</b></td>
+        <td><b>PE-10</b></td>
     </tr>
     <tr>
-        <td>PE-</td>
+        <td>PE-11</td>
+        <td>应急电源，Emergency Power</td>
         <td></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
+        <td>PE-11</td>
+        <td>PE-11 (1)</td>
     </tr>
     <tr>
-        <td>PE-</td>
-        <td></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
+        <td>PE-12</td>
+        <td>应急照明，Emergency Lighting</td>
+        <td>PE-12</td>
+        <td>PE-12</td>
+        <td>PE-12</td>
     </tr>
     <tr>
-        <td>PE-</td>
-        <td></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
+        <td>PE-13</td>
+        <td>消防，Fire Protection</td>
+        <td><b>PE-13</b></td>
+        <td><b>PE-13</b>(1)</td>
+        <td><b>PE-13</b>(1)(2)</td>
     </tr>
     <tr>
-        <td>PE-</td>
-        <td></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
+        <td>PE-14</td>
+        <td>环境控制措施，Environmental Controls</td>
+        <td><b>PE-14</b></td>
+        <td><b>PE-14</b></td>
+        <td><b>PE-14</b></td>
     </tr>
     <tr>
-        <td>PE-</td>
-        <td></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
+        <td>PE-15</td>
+        <td>水灾保护，Water Damage Protection</td>
+        <td><b>PE-15</b></td>
+        <td><b>PE-15</b></td>
+        <td><b>PE-15</b>(1)</td>
     </tr>
     <tr>
-        <td>PE-</td>
-        <td></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
+        <td>PE-16</td>
+        <td>运送与搬运，Delivery and Removal</td>
+        <td>PE-16</td>
+        <td>PE-16</td>
+        <td>PE-16</td>
     </tr>
     <tr>
-        <td>PE-</td>
+        <td>PE-17</td>
+        <td>备用工作地点，Alternate Work Site</td>
         <td></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
+        <td>PE-17</td>
+        <td>PE-17</td>
     </tr>
     <tr>
-        <td>PE-</td>
+        <td>PE-18</td>
+        <td>系统组件的位置，Location of System Components</td>
         <td></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
+        <td></td>
+        <td>PE-18</td>
     </tr>
     <tr>
-        <td>PE-</td>
+        <td>PE-22</td>
+        <td>组件标记，Component Marking</td>
         <td></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
+        <td><u><b>PE-22</b></u></td>
+        <td><u><b>PE-22</b></u></td>
     </tr>
     <tr>
-        <td>PE-</td>
-        <td></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
+        <td>PL-1</td>
+        <td>政策与程序</td>
+        <td><b>PL-1</b></td>
+        <td><b>PL-1</b></td>
+        <td><b>PL-1</b></td>
     </tr>
     <tr>
-        <td>PE-</td>
-        <td></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
+        <td>PL-2</td>
+        <td>系统安全和隐私计划，System Security and Privacy Plans</td>
+        <td><b>PL-2</b></td>
+        <td><b>PL-2</b></td>
+        <td><b>PL-2</b></td>
     </tr>
     <tr>
-        <td>PE-</td>
-        <td></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
+        <td>PL-4</td>
+        <td>行为规则，Rules of Behavior</td>
+        <td>PL-4 (1)</td>
+        <td>PL-4 (1)</td>
+        <td>PL-4 (1)</td>
     </tr>
     <tr>
-        <td>PE-</td>
+        <td>PL-8</td>
+        <td>安全和隐私架构，Security and Privacy Architecture</td>
         <td></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
-        <td><b>PE-</b></td>
+        <td>PL-8</td>
+        <td>PL-8</td>
+    </tr>
+    <tr>
+        <td>PL-10</td>
+        <td>基线选择，Baseline Selection</td>
+        <td>PL-10</td>
+        <td>PL-10</td>
+        <td>PL-10</td>
+    </tr>
+    <tr>
+        <td>PL-11</td>
+        <td>基线定制，Baseline Tailoring</td>
+        <td>PL-11</td>
+        <td>PL-11</td>
+        <td>PL-11</td>
+    </tr>
+    <tr>
+        <td>PM-1</td>
+        <td>信息安全项目计划，Information Security Program Plan</td>
+        <td colspan="3">PM-1</td>
+    </tr>
+    <tr>
+        <td>PM-2</td>
+        <td>信息安全计划领导角色，Information Security Program Leadership Role</td>
+        <td colspan="3">PM-2</td>
+    </tr>
+    <tr>
+        <td>PM-3</td>
+        <td>信息安全与隐私资源，Information Security and Privacy Resources</td>
+        <td colspan="3">PM-3</td>
+    </tr>
+    <tr>
+        <td>PM-4</td>
+        <td>行动计划和里程碑流程, Plan of Action and Milestones Process</td>
+        <td colspan="3">PM-4</td>
+    </tr>
+    <tr>
+        <td>PM-5</td>
+        <td>系统库存，System Inventory</td>
+        <td colspan="3">PM-5</td>
+    </tr>
+    <tr>
+        <td>PM-6</td>
+        <td>性能衡量标准，Measures of Performance</td>
+        <td colspan="3">PM-6</td>
+    </tr>
+    <tr>
+        <td>PM-7</td>
+        <td>企业架构，Enterprise Architecture</td>
+        <td colspan="3">PM-7</td>
+    </tr>
+    <tr>
+        <td>PM-8</td>
+        <td>关键基础设施计划，Critical Infrastructure Plan</td>
+        <td colspan="3"><b>PM-8</b></td>
+    </tr>
+    <tr>
+        <td>PM-9</td>
+        <td>风险管理策略，Risk Management Strategy</td>
+        <td colspan="3">PM-9</td>
+    </tr>
+    <tr>
+        <td>PM-10</td>
+        <td>授权流程，Authorization Process</td>
+        <td colspan="3">PM-10</td>
+    </tr>
+    <tr>
+        <td>PM-11</td>
+        <td>使命和业务流程定义，Mission and Business Process Definition</td>
+        <td colspan="3">PM-11</td>
+    </tr>
+    <tr>
+        <td>PM-12</td>
+        <td>内部威胁计划，Insider Threat Program</td>
+        <td colspan="3">PM-12</td>
+    </tr>
+    <tr>
+        <td>PM-13</td>
+        <td>安全和隐私工作人员，Security and Privacy Workforce</td>
+        <td colspan="3">PM-13</td>
+    </tr>
+    <tr>
+        <td>PM-14</td>
+        <td>测试、培训与监控，Testing, Training and Monitoring</td>
+        <td colspan="3">PM-14</td>
+    </tr>
+    <tr>
+        <td>PM-15</td>
+        <td>安全和隐私团体和协会，Security and Privacy Groups and Associations</td>
+        <td colspan="3"><b>PM-15</b></td>
+    </tr>
+    <tr>
+        <td>PM-16</td>
+        <td>威胁意识计划，Threat Awareness Program</td>
+        <td colspan="3"><b>PM-16</b></td>
+    </tr>
+    <tr>
+        <td>PM-17</td>
+        <td>保护外部系统上的受控非机密信息，Protecting Controlled Unclassified Information on External Systems</td>
+        <td colspan="3"><b>PM-17</b></td>
+    </tr>
+    <tr>
+        <td>PM-18</td>
+        <td>隐私项目计划，Privacy Program Plan</td>
+        <td colspan="3">PM-18</td>
+    </tr>
+    <tr>
+        <td>PM-18</td>
+        <td>隐私计划领导角色，Privacy Program Leadership Role</td>
+        <td colspan="3">PM-19</td>
+    </tr>
+    <tr>
+        <td>PM-20</td>
+        <td>隐私计划信息的传播，Dissemination of Privacy Program Information</td>
+        <td colspan="3">PM-20 (1)</td>
+    </tr>
+    <tr>
+        <td>PM-21</td>
+        <td>披露记录，Accounting of Disclosures</td>
+        <td colspan="3">PM-21</td>
+    </tr>
+    <tr>
+        <td>PM-22</td>
+        <td>个人身份信息质量管理，Personally Identifiable Information Quality Management</td>
+        <td colspan="3">PM-22</td>
+    </tr>
+    <tr>
+        <td>PM-23</td>
+        <td>数据治理机构，Data Governance Body</td>
+        <td colspan="3">PM-23</td>
+    </tr>
+    <tr>
+        <td>PM-24</td>
+        <td>数据完整性委员会，Data Integrity Board</td>
+        <td colspan="3">PM-24</td>
+    </tr>
+    <tr>
+        <td>PM-25</td>
+        <td>最大限度地减少测试、培训和研究中使用的个人身份信息，Minimization of Personally Identifiable Information Used in Testing, Training, and Research</td>
+        <td colspan="3">PM-25</td>
+    </tr>
+    <tr>
+        <td>PM-26</td>
+        <td>投诉管理，Compliant Management</td>
+        <td colspan="3">PM-26</td>
+    </tr>
+    <tr>
+        <td>PM-27</td>
+        <td>隐私报告，Privacy Reporting</td>
+        <td colspan="3">PM-27</td>
+    </tr>
+    <tr>
+        <td>PM-28</td>
+        <td>搭建风险框架，Risk Framing</td>
+        <td colspan="3">PM-28</td>
+    </tr>
+    <tr>
+        <td>PM-29</td>
+        <td>风险管理计划领导角色，Risk Management Program Leadership Roles</td>
+        <td colspan="3">PM-29</td>
+    </tr>
+    <tr>
+        <td>PM-30</td>
+        <td>供应链风险管理策略, Supply Chain Risk Management Strategy</td>
+        <td colspan="3">PM-30 (1)</td>
+    </tr>
+    <tr>
+        <td>PM-31</td>
+        <td>持续监控策略，Continuous Monitoring Strategy</td>
+        <td colspan="3">PM-31</td>
+    </tr>
+    <tr>
+        <td>PM-32</td>
+        <td>梳理目标，Purposing</td>
+        <td colspan="3">PM-32</td>
+    </tr>
+    <tr>
+        <td>PS-1</td>
+        <td>政策与程序</td>
+        <td><b>PS-1</b></td>
+        <td><b>PS-1</b></td>
+        <td><b>PS-1</b></td>
+    </tr>
+    <tr>
+        <td>PS-2</td>
+        <td>岗位风险指定，Position Risk Designation</td>
+        <td><b>PS-2</b></td>
+        <td><b>PS-2</b></td>
+        <td><b>PS-2</b></td>
+    </tr>
+    <tr>
+        <td>PS-3</td>
+        <td>人员筛选，Personnel Screening</td>
+        <td>PS-3</td>
+        <td>PS-3</td>
+        <td>PS-3</td>
+    </tr>
+    <tr>
+        <td>PS-4</td>
+        <td>人员终止，Personnel Termination</td>
+        <td>PS-4</td>
+        <td>PS-4</td>
+        <td>PS-4 (2)</td>
+    </tr>
+    <tr>
+        <td>PS-5</td>
+        <td>人员调动，Personnel Transfer</td>
+        <td>PS-5</td>
+        <td>PS-5</td>
+        <td>PS-5</td>
+    </tr>
+    <tr>
+        <td>PS-</td>
+        <td></td>
+        <td><b>PS-</b></td>
+        <td><b>PS-</b></td>
+        <td><b>PS-</b></td>
+    </tr>
+    <tr>
+        <td>PS-</td>
+        <td></td>
+        <td><b>PS-</b></td>
+        <td><b>PS-</b></td>
+        <td><b>PS-</b></td>
+    </tr>
+    <tr>
+        <td>PS-</td>
+        <td></td>
+        <td><b>PS-</b></td>
+        <td><b>PS-</b></td>
+        <td><b>PS-</b></td>
+    </tr>
+    <tr>
+        <td>PS-</td>
+        <td></td>
+        <td><b>PS-</b></td>
+        <td><b>PS-</b></td>
+        <td><b>PS-</b></td>
     </tr>
 
 <table>
