@@ -49,3 +49,4 @@
     - [适用性](./appendix-f/applicability.md)
     - [叠加层摘要](./appendix-f/summary.md)
     - [定制的注意事项](./appendix-f/considerations.md)
+    - [OT 通信协议](./appendix-f/comm_protocols.md)
