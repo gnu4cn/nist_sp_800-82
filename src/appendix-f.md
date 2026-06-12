@@ -1288,158 +1288,311 @@ ICS 由控制组件（例如电气、机械、液压、气动）组合组成，�
         <td><b>SC-3</b></td>
     </tr>
     <tr>
-        <td>SC-</td>
+        <td>SC-4</td>
+        <td>系统共享资源中的信息，Information in System Shared Resources</td>
         <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td><b>SC-4</b></td>
+        <td><b>SC-4</b></td>
     </tr>
     <tr>
-        <td>SC-</td>
-        <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td>SC-5</td>
+        <td>拒绝服务攻击保护，Denial-of-Service Protection</td>
+        <td><b>SC-5</b></td>
+        <td><b>SC-5</b></td>
+        <td><b>SC-5</b></td>
     </tr>
     <tr>
-        <td>SC-</td>
-        <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td>SC-7</td>
+        <td>边界保护，Boundary Protection</td>
+        <td>SC-7 <u><b>(28)(29)</b></u></td>
+        <td>SC-7 (3)(4)(5)(7)(8)<u><b>(18)(28)(29)</b></u></td>
+        <td>SC-7 (3)(4)(5)(7)(8)<b>(18)</b>(21)<u><b>(28)(29)</b></u></td>
     </tr>
     <tr>
-        <td>SC-</td>
+        <td>SC-8</td>
+        <td>传输的机密性和完整性，Tansmission Confidentiality and Integrity</td>
         <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td>SC-8 <b>(1)</b></td>
+        <td>SC-8 <b>(1)</b></td>
     </tr>
     <tr>
-        <td>SC-</td>
+        <td>SC-10</td>
+        <td>网络断开，Network Disconnect</td>
         <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td><s>SC-10</s></td>
+        <td><s>SC-10</s></td>
     </tr>
     <tr>
-        <td>SC-</td>
-        <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td>SC-12</td>
+        <td>密钥的建立和管理, Cryptographic Key Establishment and Management</td>
+        <td>SC-12</td>
+        <td>SC-12</td>
+        <td>SC-12 (1)</td>
     </tr>
     <tr>
-        <td>SC-</td>
-        <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td>SC-13</td>
+        <td>加密保护，Cryptographic Protection</td>
+        <td>SC-13</td>
+        <td>SC-13</td>
+        <td>SC-13</td>
     </tr>
     <tr>
-        <td>SC-</td>
-        <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td>SC-15</td>
+        <td>协作计算装置与应用，Collaborative Computing Devices and Applications</td>
+        <td>SC-15</td>
+        <td>SC-15</td>
+        <td>SC-15</td>
     </tr>
     <tr>
-        <td>SC-</td>
+        <td>SC-17</td>
+        <td>公钥基础设施证书，Pulic Key Infrastructure Certificates</td>
         <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td>SC-17</td>
+        <td>SC-17</td>
     </tr>
     <tr>
-        <td>SC-</td>
+        <td>SC-18</td>
+        <td>手机代码，Mobile Code</td>
         <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td>SC-18</td>
+        <td>SC-18</td>
     </tr>
     <tr>
-        <td>SC-</td>
-        <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td>SC-20</td>
+        <td>安全名称/地址解析服务（权威来源），Secure Name/Address Resolution Service (Authoritative Source)</td>
+        <td><b>SC-20</b></td>
+        <td><b>SC-20</b></td>
+        <td><b>SC-20</b></td>
     </tr>
     <tr>
-        <td>SC-</td>
-        <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td>SC-21</td>
+        <td>安全名称/地址解析服务（递归或缓存解析器），Secure Name/Address Resolution Service (Recursive or Caching Resolver)</td>
+        <td><b>SC-21</b></td>
+        <td><b>SC-21</b></td>
+        <td><b>SC-21</b></td>
     </tr>
     <tr>
-        <td>SC-</td>
-        <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td>SC-22</td>
+        <td>名称/地址解析服务的架构和配置, Architecture and Provisioning for Name/Address Resolution Service</td>
+        <td><b>SC-22</b></td>
+        <td><b>SC-22</b></td>
+        <td><b>SC-22</b></td>
     </tr>
     <tr>
-        <td>SC-</td>
+        <td>SC-23</td>
+        <td>会话真实性，Session Authenticity</td>
         <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td><b>SC-23</b></td>
+        <td><b>SC-23</b></td>
     </tr>
     <tr>
-        <td>SC-</td>
+        <td>SC-24</td>
+        <td>已知状态失败，Fail in Known State</td>
         <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td><u><b>SC-24</b></u></td>
+        <td><b>SC-24</b></td>
     </tr>
     <tr>
-        <td>SC-</td>
+        <td>SC-28</td>
+        <td>静态信息保护, Protection of Information at Rest</td>
         <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td><b>SC-28</b>(1)</td>
+        <td><b>SC-28</b>(1)</td>
     </tr>
     <tr>
-        <td>SC-</td>
-        <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td>SC-39</td>
+        <td>进程隔离，Process Isolation</td>
+        <td><b>SC-39</b></td>
+        <td><b>SC-39</b></td>
+        <td><b>SC-39</b></td>
     </tr>
     <tr>
-        <td>SC-</td>
-        <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td>SC-41</td>
+        <td>端口和 I/O 设备访问，Port and I/O Device Access</td>
+        <td><s>SC-41</s></td>
+        <td><s>SC-41</s></td>
+        <td><s>SC-41</s></td>
     </tr>
     <tr>
-        <td>SC-</td>
-        <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td>SC-45</td>
+        <td>系统时间同步，System Time Synchronization</td>
+        <td><u><b>SC-45</b></u></td>
+        <td><u><b>SC-45</b></u></td>
+        <td><u><b>SC-45</b></u></td>
     </tr>
     <tr>
-        <td>SC-</td>
+        <td>SC-47</td>
+        <td>备用通信路径，Alternate Communication Path</td>
         <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td></td>
+        <td><u><b>SC-47</b></u></td>
     </tr>
     <tr>
-        <td>SC-</td>
-        <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td>SI-1</td>
+        <td>政策与程序</td>
+        <td><b>SI-1</b></td>
+        <td><b>SI-1</b></td>
+        <td><b>SI-1</b></td>
     </tr>
     <tr>
-        <td>SC-</td>
-        <td></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
-        <td><b>SC-</b></td>
+        <td>SI-2</td>
+        <td>缺陷修复, Flaw Remediation</td>
+        <td><b>SI-2</b></td>
+        <td><b>SI-2</b>(2)</td>
+        <td><b>SI-2</b>(2)</td>
     </tr>
-
+    <tr>
+        <td>SI-3</td>
+        <td>恶意代码防护，Malicious Code Protection</td>
+        <td><b>SI-3</b></td>
+        <td><b>SI-3</b></td>
+        <td><b>SI-3</b></td>
+    </tr>
+    <tr>
+        <td>SI-4</td>
+        <td>系统监控，System Monitoring</td>
+        <td><b>SI-4</b></td>
+        <td><b>SI-4 (2)</b>(4)<b>(5)</b></td>
+        <td><b>SI-4 (2)</b>(4)<b>(5)</b>(10)(12)(14)(20)(22)</td>
+    </tr>
+    <tr>
+        <td>SI-5</td>
+        <td>安全警报、建议和指令，Security Alerts, Advisories, and Directives</td>
+        <td><b>SI-5</b></td>
+        <td><b>SI-5</b></td>
+        <td><b>SI-5</b>(1)</td>
+    </tr>
+    <tr>
+        <td>SI-6</td>
+        <td>安全隐私功能验证，Security and Privacy Function Verification</td>
+        <td></td>
+        <td></td>
+        <td><b>SI-6</b></td>
+    </tr>
+    <tr>
+        <td>SI-7</td>
+        <td>软件、固件及信息的完整性，Software, Firmware, and Information Integrity</td>
+        <td></td>
+        <td><b>SI-7 (1)(7)</b></td>
+        <td><b>SI-7 (1)(2)(5)(7)(15)</b></td>
+    </tr>
+    <tr>
+        <td>SI-8</td>
+        <td>垃圾邮件防护, Spam Protection</td>
+        <td></td>
+        <td><b>SI-8</b><s>(2)</s></td>
+        <td><b>SI-8</b><s>(2)</s></td>
+    </tr>
+    <tr>
+        <td>SI-10</td>
+        <td>信息输入验证, Information Input Validation</td>
+        <td></td>
+        <td>SI-10</td>
+        <td>SI-10</td>
+    </tr>
+    <tr>
+        <td>SI-11</td>
+        <td>错误处理, Error Handling</td>
+        <td></td>
+        <td>SI-11</td>
+        <td>SI-11</td>
+    </tr>
+    <tr>
+        <td>SI-12</td>
+        <td>信息处理和保留, Information Handling and Retention</td>
+        <td>SI-12</td>
+        <td>SI-12</td>
+        <td>SI-12</td>
+    </tr>
+    <tr>
+        <td>SI-13</td>
+        <td>可预测的故障预防, Predictable Failure Prevention</td>
+        <td></td>
+        <td></td>
+        <td><u>SI-13</u></td>
+    </tr>
+    <tr>
+        <td>SI-16</td>
+        <td>存储体保护，Memory Protection</td>
+        <td></td>
+        <td>SI-16</td>
+        <td>SI-16</td>
+    </tr>
+    <tr>
+        <td>SI-17</td>
+        <td>故障安全程序，Fail-Safe Procedures</td>
+        <td><u><b>SI-17</b></u></td>
+        <td><u><b>SI-17</b></u></td>
+        <td><u><b>SI-17</b></u></td>
+    </tr>
+    <tr>
+        <td>SR-1</td>
+        <td>政策与程序</td>
+        <td><b>SR-1</b></td>
+        <td><b>SR-1</b></td>
+        <td><b>SR-1</b></td>
+    </tr>
+    <tr>
+        <td>SR-2</td>
+        <td>供应链风险管理计划，Supply Chain Risk Management Plan</td>
+        <td>SR-2 (1)</td>
+        <td>SR-2 (1)</td>
+        <td>SR-2 (1)</td>
+    </tr>
+    <tr>
+        <td>SR-3</td>
+        <td>供应链控制措施和流程，Suplly Chain Controls and Processes</td>
+        <td>SR-3</td>
+        <td>SR-3</td>
+        <td>SR-3</td>
+    </tr>
+    <tr>
+        <td>SR-5</td>
+        <td>采购策略、工具及方法，Acquisition Strategies, Tools, and Methods</td>
+        <td>SR-5</td>
+        <td>SR-5 <u><b>(1)</b></u></td>
+        <td>SR-5 <u><b>(1)</b></u></td>
+    </tr>
+    <tr>
+        <td>SR-6</td>
+        <td>供应商评估和审查，Supplier Assessments and Reviews</td>
+        <td></td>
+        <td>SR-6</td>
+        <td>SR-6</td>
+    </tr>
+    <tr>
+        <td>SR-8</td>
+        <td>通知协议，Notification Agreements</td>
+        <td>SR-8</td>
+        <td>SR-8</td>
+        <td>SR-8</td>
+    </tr>
+    <tr>
+        <td>SR-9</td>
+        <td>防篡改和检测, Tamper Resistance and Detection</td>
+        <td></td>
+        <td></td>
+        <td>SR-9 (1)</td>
+    </tr>
+    <tr>
+        <td>SR-10</td>
+        <td>系统或组件的检查，Inspection of Systems or Components</td>
+        <td>SR-10</td>
+        <td>SR-10</td>
+        <td>SR-10</td>
+    </tr>
+    <tr>
+        <td>SR-11</td>
+        <td>组件真实性，Component Authenticity</td>
+        <td>SR-11 (1)(2)</td>
+        <td>SR-11 (1)(2)</td>
+        <td>SR-11 (1)(2)</td>
+    </tr>
+    <tr>
+        <td>SR-12</td>
+        <td>组件处置, Component Disposal</td>
+        <td>SR-12</td>
+        <td>SR-12</td>
+        <td>SR-12</td>
+    </tr>
 <table>
