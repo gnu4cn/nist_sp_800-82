@@ -1099,32 +1099,347 @@ ICS 由控制组件（例如电气、机械、液压、气动）组合组成，�
         <td>PS-5</td>
     </tr>
     <tr>
-        <td>PS-</td>
-        <td></td>
-        <td><b>PS-</b></td>
-        <td><b>PS-</b></td>
-        <td><b>PS-</b></td>
+        <td>PS-6</td>
+        <td>访问协议，Access Agreements</td>
+        <td>PS-6</td>
+        <td>PS-6</td>
+        <td>PS-6</td>
     </tr>
     <tr>
-        <td>PS-</td>
-        <td></td>
-        <td><b>PS-</b></td>
-        <td><b>PS-</b></td>
-        <td><b>PS-</b></td>
+        <td>PS-7</td>
+        <td>外部人员安全，External Personnel Security</td>
+        <td>PS-7</td>
+        <td>PS-7</td>
+        <td>PS-7</td>
     </tr>
     <tr>
-        <td>PS-</td>
-        <td></td>
-        <td><b>PS-</b></td>
-        <td><b>PS-</b></td>
-        <td><b>PS-</b></td>
+        <td>PS-8</td>
+        <td>人员制裁，Personnel Sanctions</td>
+        <td>PS-8</td>
+        <td>PS-8</td>
+        <td>PS-8</td>
     </tr>
     <tr>
-        <td>PS-</td>
+        <td>PS-9</td>
+        <td>岗位描述，Position Descriptions</td>
+        <td>PS-9</td>
+        <td>PS-9</td>
+        <td>PS-9</td>
+    </tr>
+    <tr>
+        <td>RA-1</td>
+        <td>政策与程序</td>
+        <td><b>RA-1</b></td>
+        <td><b>RA-1</b></td>
+        <td><b>RA-1</b></td>
+    </tr>
+    <tr>
+        <td>RA-2</td>
+        <td>安全分类，Security Categorization</td>
+        <td><b>RA-2</b></td>
+        <td><b>RA-2</b></td>
+        <td><b>RA-2</b></td>
+    </tr>
+    <tr>
+        <td>RA-3</td>
+        <td>风险评估，Risk Assessment</td>
+        <td>RA-3 (1)</td>
+        <td>RA-3 (1)</td>
+        <td>RA-3 (1)</td>
+    </tr>
+    <tr>
+        <td>RA-5</td>
+        <td>漏洞监控与扫描，Vulnerabillity Monitoring and Scanning</td>
+        <td><b>RA-5</b>(2)<b>(11)</b></td>
+        <td><b>RA-5</b>(2)(5)<b>(11)</b></td>
+        <td><b>RA-5</b>(2)<b>(4)</b>(5)<b>(11)</b></td>
+    </tr>
+    <tr>
+        <td>RA-7</td>
+        <td>风险响应，Risk Response</td>
+        <td>RA-7</td>
+        <td>RA-7</td>
+        <td>RA-7</td>
+    </tr>
+    <tr>
+        <td>RA-9</td>
+        <td>关键性分析，Criticality Analysis</td>
         <td></td>
-        <td><b>PS-</b></td>
-        <td><b>PS-</b></td>
-        <td><b>PS-</b></td>
+        <td>RA-9</td>
+        <td>RA-9</td>
+    </tr>
+    <tr>
+        <td>SA-1</td>
+        <td>政策与程序</td>
+        <td><b>SA-1</b></td>
+        <td><b>SA-1</b></td>
+        <td><b>SA-1</b></td>
+    </tr>
+    <tr>
+        <td>SA-2</td>
+        <td>资源配置，Allocation of Resources</td>
+        <td>SA-2</td>
+        <td>SA-2</td>
+        <td>SA-2</td>
+    </tr>
+    <tr>
+        <td>SA-3</td>
+        <td>系统开发发生命周期，System Development Life Cycle</td>
+        <td>SA-3</td>
+        <td>SA-3</td>
+        <td>SA-3</td>
+    </tr>
+    <tr>
+        <td>SA-4</td>
+        <td>收购流程，Acquisition Process</td>
+        <td><b>SA-4 (10)</b><u>(12)</u></td>
+        <td><b>SA-4 (1)(2)(9)(10)</b><u>(12)</u></td>
+        <td><b>SA-4 (1)(2)(5)(9)(10)</b><u>(12)</u></td>
+    </tr>
+    <tr>
+        <td>SA-5</td>
+        <td>系统文档，System Documentation</td>
+        <td>SA-5</td>
+        <td>SA-5</td>
+        <td>SA-5</td>
+    </tr>
+    <tr>
+        <td>SA-8</td>
+        <td>安全与隐私工程原理，Security and Privacy Engineering Principles</td>
+        <td>SA-8</td>
+        <td>SA-8</td>
+        <td>SA-8</td>
+    </tr>
+    <tr>
+        <td>SA-9</td>
+        <td>外部系统服务，External System Services</td>
+        <td>SA-9</td>
+        <td>SA-9 (2)</td>
+        <td>SA-9 (2)</td>
+    </tr>
+    <tr>
+        <td>SA-10</td>
+        <td>开发者配置管理，Developer Configuration Management</td>
+        <td></td>
+        <td><b>SA-10</b></td>
+        <td><b>SA-10</b></td>
+    </tr>
+    <tr>
+        <td>SA-11</td>
+        <td>开发者测试和评估，Developer Testing and Evaluation</td>
+        <td></td>
+        <td>SA-11</td>
+        <td>SA-11</td>
+    </tr>
+    <tr>
+        <td>SA-15</td>
+        <td>开发流程、标准和工具, Development Process, Standards, and Tools</td>
+        <td></td>
+        <td>SA-15 (3)</td>
+        <td>SA-15 (3)</td>
+    </tr>
+    <tr>
+        <td>SA-16</td>
+        <td>开发者提供的培训，Developer-Provided Training</td>
+        <td></td>
+        <td></td>
+        <td>SA-16</td>
+    </tr>
+    <tr>
+        <td>SA-17</td>
+        <td>开发者安全架构和设计，Developer Security Architecture and Design</td>
+        <td></td>
+        <td></td>
+        <td>SA-17</td>
+    </tr>
+    <tr>
+        <td>SA-21</td>
+        <td>开发者遴选，Developer Screening</td>
+        <td></td>
+        <td></td>
+        <td>SA-21</td>
+    </tr>
+    <tr>
+        <td>SA-22</td>
+        <td>不受支持的系统组建，Unsupported System Components</td>
+        <td><b>SA-22</b></td>
+        <td><b>SA-22</b></td>
+        <td><b>SA-22</b></td>
+    </tr>
+    <tr>
+        <td>SC-1</td>
+        <td>政策与程序</td>
+        <td><b>SC-1</b></td>
+        <td><b>SC-1</b></td>
+        <td><b>SC-1</b></td>
+    </tr>
+    <tr>
+        <td>SC-2</td>
+        <td>系统和用户功能分离，Separation of System and User Functionality</td>
+        <td></td>
+        <td><b>SC-2</b></td>
+        <td><b>SC-2</b></td>
+    </tr>
+    <tr>
+        <td>SC-3</td>
+        <td>安全功能隔离，Security Function Isolation</td>
+        <td></td>
+        <td></td>
+        <td><b>SC-3</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+    </tr>
+    <tr>
+        <td>SC-</td>
+        <td></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
+        <td><b>SC-</b></td>
     </tr>
 
 <table>
