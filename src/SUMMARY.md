@@ -45,3 +45,6 @@
     - [会议和工作组](./appendix-d/conferences_n_wg.md)
 - [附录 E，OT 安全能力与工具](./appendix-e.md)
 - [附录 F，OT 叠加层](./appendix-f.md)
+    - [叠加层特性](./appendix-f/characteristics.md)
+    - [适用性](./appendix-f/applicability.md)
+    - [叠加层摘要](./appendix-f/summary.md)
