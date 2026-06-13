@@ -53,4 +53,4 @@
     - [定义](./appendix-f/definitions.md)
     - [详细的叠加层控制规范](./appendix-f/specifications.md)
         - [访问控制 -- AC](./appendix-f/specifications/ac.md)
-        - [意识与培训](./appendix-f/specifications/awareness_n_training.md)
+        - [意识与培训 -- AT](./appendix-f/specifications/awareness_n_training.md)
