@@ -52,3 +52,4 @@
     - [OT 通信协议](./appendix-f/comm_protocols.md)
     - [定义](./appendix-f/definitions.md)
     - [详细的叠加层控制规范](./appendix-f/specifications.md)
+        - [访问控制 -- AC](./appendix-f/specifications/ac.md)
