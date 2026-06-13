@@ -33,7 +33,7 @@
     <tr>
         <th rowspan="2">➋控制措施编号</th>
         <th rowspan="2">➌控制措施名称<br /><i>控制增强名字</i></th>
-        <th colspan="3">➍补充⓺控制基线</th>
+        <th colspan="3">➍补充<br />⓺控制基线</th>
     </tr>
     <tr>
         <th>低 LOW</th>
@@ -41,7 +41,7 @@
         <th>高 HIGH</th>
     </tr>
     <tr>
-        <td>AC-3</td>
+        <td>⓹AC-3</td>
         <td>访问管控，Access Enforcement</td>
         <td><b>选择</b></td>
         <td><b>选择</b></td>
