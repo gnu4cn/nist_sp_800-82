@@ -55,3 +55,4 @@
         - [访问控制 -- AC](./appendix-f/specifications/ac.md)
         - [意识与培训 -- AT](./appendix-f/specifications/awareness_n_training.md)
         - [审计和问责制 – AU](./appendix-f/specifications/auditing.md)
+        - [评估、授权和监控 – CA](./appendix-f/specifications/assessment_auth_n_mon.md)
