@@ -33,7 +33,7 @@
     <tr>
         <th rowspan="2">➋控制措施编号</th>
         <th rowspan="2">➌控制措施名称<br /><i>控制增强名字</i></th>
-        <th colspan="3">➍补充<br />⓺控制基线</th>
+        <th colspan="3">➍<code>SUPPLMENTED</code><br />⓺控制基线</th>
     </tr>
     <tr>
         <th>低 LOW</th>
