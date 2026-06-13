@@ -31,17 +31,7 @@
 
 <u>OT 讨论</u>：该政策专门解决 OT 的独特属性和要求，以及与非 OT 系统的关系。供应商和维护人员的 OT 访问，可能会发生在较大的设施占地面积或地理区域内，并可能进入未观察到的空间，例如机械或电气室、天花板、地板、现场变电站、开关和阀门库以及泵站。
 
-<table>
-    <tr>
-        <th rowspan="2">控制措施编号</th>
-        <th rowspan="2">控制措施名称<br /><i>控制增强名字</i></th>
-        <th colspan="3">控制基线</th>
-    </tr>
-    <tr>
-        <th>低 LOW</th>
-        <th>中 MOD</th>
-        <th>高 HIGH</th>
-    </tr>
+{{#include ac.md:12:22}}
     <tr>
         <td><b>AC-2</b></td>
         <td><b>帐号管理</b></td>
@@ -122,17 +112,7 @@
 
 ### AC-3 访问管控
 
-<table>
-    <tr>
-        <th rowspan="2">控制措施编号</th>
-        <th rowspan="2">控制措施名称<br /><i>控制增强名字</i></th>
-        <th colspan="3">控制基线</th>
-    </tr>
-    <tr>
-        <th>低 LOW</th>
-        <th>中 MOD</th>
-        <th>高 HIGH</th>
-    </tr>
+{{#include ac.md:12:22}}
     <tr>
         <td><b>AC-3</b></td>
         <td><b>访问管控</b></td>
@@ -295,7 +275,139 @@
 
 <u>控制增强</u>： (10) <u>OT 讨论</u>：补偿控制示例包括增强审计。
 
+### 登录尝试失败
+
+<table>
+    <tr>
+        <th rowspan="2">控制措施编号</th>
+        <th rowspan="2">控制措施名称<br /><i>控制增强名字</i></th>
+        <th colspan="3">控制基线</th>
+    </tr>
+    <tr>
+        <th>低 LOW</th>
+        <th>中 MOD</th>
+        <th>高 HIGH</th>
+    </tr>
+    <tr>
+        <td><b>AC-7</b></td>
+        <td><b>登录失败尝试</b></td>
+        <td><b>选择</b></td>
+        <td><b>选择</b></td>
+        <td><b>选择</b></td>
+    </tr>
+</table>
 
 
+<u>OT 讨论</u>：许多 OT 系统都会保持持续运行，操作员始终保持登录系统的状态。可以采用 “登录，log-over” 功能。示例补偿控制包括日志记录，或记录所有不成功的登录尝试，并在超过组织定义的连续无效访问尝试次数时，通过警报或其他方式向 OT 安全人员发出警报。对不需要连续操作的帐户（例如管理员）或系统（例如工程工作站），强制执行不成功的登录尝试限制。
+
+### AC-8 系统使用通知
+
+<table>
+    <tr>
+        <th rowspan="2">控制措施编号</th>
+        <th rowspan="2">控制措施名称<br /><i>控制增强名字</i></th>
+        <th colspan="3">控制基线</th>
+    </tr>
+    <tr>
+        <th>低 LOW</th>
+        <th>中 MOD</th>
+        <th>高 HIGH</th>
+    </tr>
+    <tr>
+        <td><b>AC-8</b></td>
+        <td><b>系统使用通知</b></td>
+        <td><b>选择</b></td>
+        <td><b>选择</b></td>
+        <td><b>选择</b></td>
+    </tr>
+</table>
+
+<u>OT 讨论</u>：许多 OT 系统都必须保持持续运行，系统使用通知可能不受支持或无效。补偿控制的示例包括在 OT 设施中张贴物理通知，或在允许访问之前提供有关系统使用的定期培训。
+
+### AC-10 并发会话控制
+
+<table>
+    <tr>
+        <th rowspan="2">控制措施编号</th>
+        <th rowspan="2">控制措施名称<br /><i>控制增强名字</i></th>
+        <th colspan="3">控制基线</th>
+    </tr>
+    <tr>
+        <th>低 LOW</th>
+        <th>中 MOD</th>
+        <th>高 HIGH</th>
+    </tr>
+    <tr>
+        <td><b>AC-10</b></td>
+        <td><b>并发会话控制</b></td>
+        <td></td>
+        <td></td>
+        <td><b>选择</b></td>
+    </tr>
+</table>
+
+<u>OT 讨论</u>：并发会话的数量、帐户类型和权限，要考虑受影响个人的角色和责任。补偿控制的示例包括提供更多的审计措施。
+
+### AC-11 设备锁
+
+<table>
+    <tr>
+        <th rowspan="2">控制措施编号</th>
+        <th rowspan="2">控制措施名称<br /><i>控制增强名字</i></th>
+        <th colspan="3">控制基线</th>
+    </tr>
+    <tr>
+        <th>低 LOW</th>
+        <th>中 MOD</th>
+        <th>高 HIGH</th>
+    </tr>
+    <tr>
+        <td><b>AC-11</b></td>
+        <td><b>设备锁</b></td>
+        <td></td>
+        <td><b>选择</b></td>
+        <td><b>选择</b></td>
+    </tr>
+    <tr>
+        <td>AC-11 (1)</td>
+        <td><i>设备锁 | 图案隐藏的显示，PATTERN-HIDING DISPLAYS</i></td>
+        <td></td>
+        <td><b>选择</b></td>
+        <td><b>选择</b></td>
+    </tr>
+</table>
+
+<u>OT 讨论</u>：这项控制措施假定用户与系统显示交互的人员环境。当系统没有配置显示器、系统放置在访问控制设施或上锁的外壳中、或者在紧急情况下需要操作员立即响应时，可以适当地定制此控制措施。示例补偿控制包括将显示器放置于在具有物理访问控制的区域中，物理访问控制通过许可及需要了解的信息，限制个人的访问。
+
+<u>控制增强</u>： (1) <u>OT 讨论</u>：可以采用物理保护来防止访问显示器或显示器的附件。当 OT 无法隐藏显示的信息时，组织会根据一般定制指南，采用非自动化机制或程序作为补偿控制。
+
+### AC-12 会话终止
+
+<table>
+    <tr>
+        <th rowspan="2">控制措施编号</th>
+        <th rowspan="2">控制措施名称<br /><i>控制增强名字</i></th>
+        <th colspan="3">控制基线</th>
+    </tr>
+    <tr>
+        <th>低 LOW</th>
+        <th>中 MOD</th>
+        <th>高 HIGH</th>
+    </tr>
+    <tr>
+        <td><b>AC-11</b></td>
+        <td><b>设备锁</b></td>
+        <td></td>
+        <td><b>选择</b></td>
+        <td><b>选择</b></td>
+    </tr>
+    <tr>
+        <td>AC-11 (1)</td>
+        <td><i>设备锁 | 图案隐藏的显示，PATTERN-HIDING DISPLAYS</i></td>
+        <td></td>
+        <td><b>选择</b></td>
+        <td><b>选择</b></td>
+    </tr>
+</table>
 
 
