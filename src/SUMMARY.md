@@ -48,5 +48,7 @@
     - [叠加层特性](./appendix-f/characteristics.md)
     - [适用性](./appendix-f/applicability.md)
     - [叠加层摘要](./appendix-f/summary.md)
-    - [定制的注意事项](./appendix-f/considerations.md)
+    - [定制注意事项](./appendix-f/considerations.md)
     - [OT 通信协议](./appendix-f/comm_protocols.md)
+    - [定义](./appendix-f/definitions.md)
+    - [详细的叠加层控制规范](./appendix-f/specifications.md)
