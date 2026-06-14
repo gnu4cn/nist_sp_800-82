@@ -58,3 +58,4 @@
         - [评估、授权和监控 – CA](./appendix-f/specifications/assessment_auth_n_mon.md)
         - [配置管理 –- CM](./appendix-f/specifications/config_man.md)
         - [应急计划 – CP](./appendix-f/specifications/cont_planning.md)
+        - [识别和认证 – IA](./appendix-f/specifications/ia.md)
