@@ -59,3 +59,4 @@
         - [配置管理 –- CM](./appendix-f/specifications/config_man.md)
         - [应急计划 – CP](./appendix-f/specifications/cont_planning.md)
         - [识别和认证 – IA](./appendix-f/specifications/ia.md)
+        - [事件响应 – IR](./appendix-f/specifications/ir.md)
