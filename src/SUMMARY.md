@@ -61,3 +61,5 @@
         - [识别和认证 -- IA](./appendix-f/specifications/ia.md)
         - [事件响应 -- IR](./appendix-f/specifications/ir.md)
         - [维护 -- MA](./appendix-f/specifications/ma.md)
+        - [介质保护 -- MP](./appendix-f/specifications/mp.md)
+        - [物理和环境保护 – PE](./appendix-f/specifications/pe.md)
