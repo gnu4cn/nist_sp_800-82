@@ -64,6 +64,7 @@
         - [介质保护 - MP](./appendix-f/specifications/mp.md)
         - [物理和环境保护 – PE](./appendix-f/specifications/pe.md)
         - [规划 – PL](./appendix-f/specifications/pl.md)
+        - [组织范围的信息安全计划管理控制 – PM](./appendix-f/specifications/pm.md)
         - [人员安全 – PS](./appendix-f/specifications/ps.md)
         - [风险评估 – RA](./appendix-f/specifications/ra.md)
         - [系统和服务采购 – SA](./appendix-f/specifications/sa.md)
