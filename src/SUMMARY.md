@@ -64,3 +64,4 @@
         - [介质保护 -- MP](./appendix-f/specifications/mp.md)
         - [物理和环境保护 – PE](./appendix-f/specifications/pe.md)
         - [规划 – PL](./appendix-f/specifications/pl.md)
+        - [人员安全 – PS](./appendix-f/specifications/ps.md)
