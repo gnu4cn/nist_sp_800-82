@@ -67,3 +67,4 @@
         - [人员安全 – PS](./appendix-f/specifications/ps.md)
         - [风险评估 – RA](./appendix-f/specifications/ra.md)
         - [系统和服务采购 – SA](./appendix-f/specifications/sa.md)
+        - [系统和通信保护 - SC](./appendix-f/specifications/sc.md)
