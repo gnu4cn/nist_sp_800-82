@@ -58,7 +58,7 @@
         <td>选择</td>
     </tr>
     <tr>
-        <td>PS-4</td>
+        <td>PS-4 (2)</td>
         <td><i>人员终止 | 自动操作</i></td>
         <td></td>
         <td></td>

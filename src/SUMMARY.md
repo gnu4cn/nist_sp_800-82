@@ -65,3 +65,5 @@
         - [物理和环境保护 – PE](./appendix-f/specifications/pe.md)
         - [规划 – PL](./appendix-f/specifications/pl.md)
         - [人员安全 – PS](./appendix-f/specifications/ps.md)
+        - [风险评估 – RA](./appendix-f/specifications/ra.md)
+        - [系统和服务采购 – SA](./appendix-f/specifications/sa.md)
