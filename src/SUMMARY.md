@@ -69,3 +69,5 @@
         - [系统和服务采购 – SA](./appendix-f/specifications/sa.md)
         - [系统和通信保护 - SC](./appendix-f/specifications/sc.md)
         - [系统和信息完整性 – SI](./appendix-f/specifications/si.md)
+        - [供应链风险管理 – SR](./appendix-f/specifications/sr.md)
+- [附录 G，变更日志](./appendix-g.md)
